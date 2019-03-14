@@ -5,7 +5,9 @@ def main():
     alphabet_u = string.ascii_uppercase
     offset = 1
     # input_s = "ifm mpx psm ea"
-    input_s = "hello world z"
+#     input_s = "hello world z"
+    input_s = input('Введите строку: ')
+    
     output_s = ""
     
     for char in input_s:
@@ -14,7 +16,7 @@ def main():
         if char in alphabet_l:
             if char is not 'z':
                 pos = alphabet_l.find(char)
-                pos-=offset
+                pos+=offset
                 output_s += alphabet_l[pos]
             else:
                 output_s += 'a'
@@ -22,12 +24,10 @@ def main():
         if char in alphabet_u:
             if char is not 'Z':
                 pos = alphabet_l.find(char)
-                pos-=offset
+                pos+=offset
                 output_s += alphabet_l[pos]
             else:
                 output_s += 'a'
        
     print(output_s)
-    
-    
 main()
