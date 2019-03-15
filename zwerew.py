@@ -1,9 +1,13 @@
-import time
-t = True
-x = 0
-while t:
-    print('test')
-    time.sleep(1)
-    x += 1
-    if x == 10:
-        t = False
+with open('text.txt', 'r') as file:
+    lines = file.readlines()
+    print(lines[0])
+    ans = lines[1].split('&')
+    x = 1
+    for i in ans:
+        print(f'{x}.' + i)
+        x += 1
+    a = int(input('Введите ответ от 1 до 3:'))
+    if a == int(lines[2]):
+        print('Верно!')
+    else:
+        print('Неверно(')
