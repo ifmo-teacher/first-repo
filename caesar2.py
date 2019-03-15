@@ -50,3 +50,8 @@ def rot13_file(file_name):
         file.close()
         
 rot13_file('crypted.txt')
+
+
+f = open('crypted.txt')
+data = f.read()
+print(f'Содержимое:{data}. Конец файла')
