@@ -1,0 +1,2819 @@
+From: <Saved by Mozilla 5.0 (Windows)>
+Subject: =?utf-8?Q?=D0=93=D0=BB=D0=B0=D0=B2=D0=B0_28._=D0=9C=D0=B0=D1=80?=
+ =?utf-8?Q?=D1=88=D1=80=D1=83=D1=82=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F?=
+ OSI
+Date: Sun, 26 Oct 2014 10:45:56 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_CFCE8FCF.BF66824B"
+X-MAF-Information: Produced By MAF V3.0.2
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://citforum.ru/nets/ito/28.shtml#28.6
+
+<html><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dwindows-1=
+251">
+
+   <meta name=3D"KeyWords" content=3D"=F1=E5=F2=E8,CISCO,Internetworking Te=
+chnology Overview,=EE=E1=E7=EE=F0,=EF=F0=EE=F2=EE=EA=EE=EB=FB,=EE=EF=E8=F1=
+=E0=ED=E8=E5,=CC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=FF OSI,=D2=E5=F0=EC=E8=ED=
+=EE=EB=EE=E3=E8=FF,ES-IS,IS-IS,=C8=E5=F0=E0=F0=F5=E8=FF =EC=E0=F0=F8=F0=F3=
+=F2=E8=E7=E0=F6=E8=E8,=D1=EE=EE=E1=F9=E5=ED=E8=E5 =EC=E5=E6=E4=F3 ES,=CF=EE=
+=EA=E0=E7=E0=F2=E5=EB=E8,=EC=E5=F2=F0=E8=EA=E8,=D4=EE=F0=EC=E0=F2 =EF=E0=EA=
+=E5=F2=E0,=C8=ED=F2=E5=E3=F0=E8=F0=EE=E2=E0=ED=ED=FB=E9 IS-IS,=CF=F0=EE=F2=
+=EE=EA=EE=EB =EC=E5=E6=E4=EE=EC=E5=ED=ED=EE=E9 =EC=E0=F0=F8=F0=F3=F2=E8=E7=
+=E0=F6=E8=E8,IDRP">
+
+   <meta name=3D"Description" content=3D"Internetworking Technology Overvie=
+w, =C2. =CF=EB=E5=F8=E0=EA=EE=E2, =C3=EB=E0=E2=E0 28.  =CC=E0=F0=F8=F0=F3=
+=F2=E8=E7=E0=F6=E8=FF OSI">
+
+   <meta name=3D"Robots" content=3D"ALL">
+
+   <meta name=3D"Document-State" content=3D"Static">
+
+  =20
+
+<title>=C3=EB=E0=E2=E0 28.  =CC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=FF OSI</ti=
+tle>
+
+<link rel=3D"stylesheet" href=3D"urn:snapshot-7E3A5638:http://citforum.ru/c=
+ss/citforum.css">
+<style><!--
+
+/* Effective stylesheet produced by snapshot save */
+
+--></style>
+
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dwindows-1=
+251">
+<style type=3D"text/css"><!--
+
+/* Effective stylesheet produced by snapshot save */
+
+.gssb_c { border: 0px none; position: absolute; z-index: 989; }
+
+.gssb_e { border-width: 1px; border-style: solid; border-right: 1px solid=
+ rgb(204, 204, 204); border-color: rgb(217, 217, 217) rgb(204, 204, 204) rg=
+b(204, 204, 204); -moz-border-top-colors: none; -moz-border-right-colors:=
+ none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; bord=
+er-image: none; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); cursor: default=
+; }
+
+.gssb_f { visibility: hidden; white-space: nowrap; }
+
+.gssb_e { border: 0px none; }
+
+.gssb_c { z-index: 5000; }
+
+.gssb_c > tbody > tr, .gssb_c > tbody > tr > td, .gssb_d, .gssb_d > tbody=
+ > tr, .gssb_d > tbody > tr > td, .gssb_e, .gssb_e > tbody > tr, .gssb_e >=
+ tbody > tr > td { padding: 0px; margin: 0px; border: 0px none; }
+
+--></style></head>
+<body topmargin=3D"0" alink=3D"#800000" bgcolor=3D"#FFFFFF" link=3D"#006890=
+" marginheight=3D"0" text=3D"#000000" vlink=3D"#003860"><script src=3D"urn:=
+snapshot-2D682F89:http://www.google.com/ads/search/module/ads/3.0/d3c0ca43b=
+a4edd33427c3d873a04f1d5a95f7170/n/search.js" async=3D"" type=3D"text/javasc=
+ript"></script><script src=3D"urn:snapshot-3BA1CCBA:http://www.google.com/a=
+dsense/search/async-ads.js" async=3D""></script>
+<a name=3D"top"></a>
+
+
+
+
+
+<!-- counters -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tbody><tr>
+<td><!--TopList COUNTER--><script src=3D"urn:snapshot-7E8743CA:http://files=
+.goodadvert.ru/ga_3.js" async=3D"" charset=3D"utf-8" type=3D"text/javascrip=
+t"></script><script src=3D"urn:snapshot-A20E237A:http://files.goodadvert.ru=
+/ga_1.js" async=3D"" charset=3D"utf-8" type=3D"text/javascript"></script><s=
+cript language=3D"JavaScript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><script language=3D"JavaScript1.1"><!--
+
+/* Script removed by snapshot save */
+
+--></script><script language=3D"JavaScript1.2"><!--
+
+/* Script removed by snapshot save */
+
+--></script><script language=3D"JavaScript1.3"><!--
+
+/* Script removed by snapshot save */
+
+--></script><script language=3D"JavaScript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><img src=3D"http://top.list.ru/counter?id=3D26978;js=3D13;r=3Dh=
+ttp%3A//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3D=
+web%26cd%3D9%26cad%3Drja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252=
+F%252Fcitforum.ru%252Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGA=
+AQ%26usg%3DAFQjCNGTt71C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-q=
+iA;j=3Dfalse;s=3D1440*900;d=3D24" alt=3D"" height=3D"1" width=3D"1"><!-- <n=
+oscript><img
+src=3D"http://top.list.ru/counter?js=3Dna;id=3D26978"
+height=3D1 width=3D1 alt=3D""></noscript><script language=3D"JavaScript"><!=
+--
+if(js>11)d.write('--'+'>')
+//--><!--TopList COUNTER--></td>
+<td><!--LiveInternet counter--><script language=3D"JavaScript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><img src=3D"http://counter.yadro.ru/hit?rhttp%3A//www.google.co=
+m/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D9%26cad%3D=
+rja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252Fcitforum.ru%252=
+Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26usg%3DAFQjCNGTt7=
+1C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA;s1440*900*24;uhttp=
+%3A//citforum.ru/nets/ito/28.shtml;i%u0416%u0436%u0413%u043B%u0430%u0432%u0=
+430%2028.%20%u041C%u0430%u0440%u0448%u0440%u0443%u0442%u0438%u0437%u0430%u0=
+446%u0438%u044F%20OSI;0.13613680700957265" alt=3D"" height=3D"1" width=3D"1=
+"><!--/LiveInternet--></td>
+<td><img src=3D"http://counter.rambler.ru/top100.cnt?13078" alt=3D"" border=
+=3D"0" height=3D"1" width=3D"1"></td>
+</tr></tbody></table>
+<!-- end of counters -->
+
+
+
+<center><table cellpadding=3D"0" cellspacing=3D"0" width=3D"990">
+<tbody><tr><td>
+
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+    <tbody><tr valign=3D"bottom">
+  <td align=3D"left"><a href=3D"http://citforum.ru/"><img src=3D"http://cit=
+forum.ru/pictures/logos/citlogo8.gif" alt=3D"Logo" border=3D"0" height=3D"4=
+4" width=3D"140"></a></td>
+
+      <td style=3D"padding-bottom: 10px" align=3D"right" width=3D"100%"><no=
+br><font size=3D"2"><b>=CC=EE=F0=E5(!) =E0=ED=E0=EB=E8=F2=E8=F7=E5=F1=EA=EE=
+=E9 =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8!</b></font></nobr></td>
+    </tr>
+    </tbody></table>
+
+
+
+
+<center style=3D"margin-top: 3px">
+
+<!--  AdRiver code START. Type:728x90 Site: citforum PZ: 0 BN: 1 -->
+<script language=3D"javascript" type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><iframe class=3D" ftxtidqbzxjklmgttmqo" src=3D"urn:snapshot-A02=
+28C89:http://ad.adriver.ru/cgi-bin/erle.cgi?sid=3D137295&amp;bn=3D1&amp;tar=
+get=3Dblank&amp;bt=3D36&amp;pz=3D0&amp;rnd=3D81876363&amp;tail256=3Dhttp%3A=
+//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26=
+cd%3D9%26cad%3Drja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252F=
+citforum.ru%252Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26u=
+sg%3DAFQjCNGTt71C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA" vs=
+pace=3D"0" hspace=3D"0" marginwidth=3D"0" marginheight=3D"0" scrolling=3D"n=
+o" frameborder=3D"0" height=3D"90" width=3D"728"></iframe>
+<noscript>
+<a href=3D"http://ad.adriver.ru/cgi-bin/click.cgi?sid=3D137295&bn=3D1&bt=3D=
+36&pz=3D0&rnd=3D1013420086" target=3D_blank>
+<img src=3D"http://ad.adriver.ru/cgi-bin/rle.cgi?sid=3D137295&bn=3D1&bt=3D3=
+6&pz=3D0&rnd=3D1013420086" alt=3D"-AdRiver-" border=3D0 width=3D728 height=
+=3D90></a>
+</noscript>
+<!--  AdRiver code END  -->
+
+
+</center>
+
+
+</td></tr>
+<tr><td>
+
+<table style=3D"padding-top: 3px" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"100%">
+<tbody><tr><td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tbody><tr><td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/=
+1x1.gif" alt=3D"" border=3D"0" height=3D"1" width=3D"931"></td></tr>
+<tr><td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"3" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#008080">
+
+<table cellpadding=3D"3" cellspacing=3D"1" border=3D"0" width=3D"100%">
+<tbody><tr>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/consulting/">IT-=EA=EE=ED=F1=E0=EB=F2=E8=ED=E3=
+</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/SE/">Software Engineering</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/programming/">=CF=F0=EE=E3=F0=E0=EC=EC=E8=F0=
+=EE=E2=E0=ED=E8=E5</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/database/">=D1=D3=C1=C4</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/security/">=C1=E5=E7=EE=EF=E0=F1=ED=EE=F1=F2=
+=FC</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/internet/">Internet</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/nets/">=D1=E5=F2=E8</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/operating_systems/">=CE=EF=E5=F0=E0=F6=E8=EE=
+=ED=ED=FB=E5 =F1=E8=F1=F2=E5=EC=FB</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/hardware/">Hardware</a></font></td>
+<!--
+<td bgcolor=3D#F4F9F3 align=3Dcenter><font size=3D-1><a class=3Dhead href=
+=3D/faq/>FAQ (=D7=E0=C2=CE)</a></font></td>
+<td bgcolor=3D#F4F9F3 align=3Dcenter><font size=3D-1><a class=3Dhead href=
+=3D/howto/>HOWTO</a></font></td>
+-->=20
+</tr>
+</tbody></table>
+
+</td></tr>
+</tbody></table>
+
+</td></tr>
+<tr><td>
+<table style=3D"padding-top: 3px" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"100%">
+<tbody><tr valign=3D"top">
+
+<td style=3D"padding: 0 5px" width=3D"98%">
+
+
+<div class=3D"document _ga1_on_">
+<!--B2BCONTEXT_CONTENT_BEGIN-->
+
+
+<h3>
+
+=C3=EB=E0=E2=E0 28.  =CC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=FF OSI.
+
+</h3>
+
+<b>
+
+        <ul type=3D"disk">
+
+<li> <a href=3D"#28.1">=C1=E8=E1=EB=E8=EE=E3=F0=E0=F4=E8=F7=E5=F1=EA=E0=FF=
+ =F1=EF=F0=E0=E2=EA=E0</a>
+
+</li><li> <a href=3D"#28.2">=D2=E5=F0=EC=E8=ED=EE=EB=EE=E3=E8=FF</a>
+
+</li><li> <a href=3D"#28.3">ES-IS</a>
+
+</li><li> <a href=3D"#28.4">IS-IS</a>
+
+<ul type=3D"disk">
+
+<li> <a href=3D"#28.4.1">=C8=E5=F0=E0=F0=F5=E8=FF =EC=E0=F0=F8=F0=F3=F2=E8=
+=E7=E0=F6=E8=E8</a>
+
+</li><li> <a href=3D"#28.4.2">=D1=EE=EE=E1=F9=E5=ED=E8=E5 =EC=E5=E6=E4=F3=
+ ES</a>
+
+</li><li> <a href=3D"#28.4.3">=CF=EE=EA=E0=E7=E0=F2=E5=EB=E8 (=EC=E5=F2=F0=
+=E8=EA=E8)</a>
+
+</li><li> <a href=3D"#28.4.4">=D4=EE=F0=EC=E0=F2 =EF=E0=EA=E5=F2=E0</a>
+
+</li></ul>
+
+ </li><li> <a href=3D"#28.5">=C8=ED=F2=E5=E3=F0=E8=F0=EE=E2=E0=ED=ED=FB=E9=
+ IS-IS</a>
+
+</li><li> <a href=3D"#28.6">=CF=F0=EE=F2=EE=EA=EE=EB =EC=E5=E6=E4=EE=EC=E5=
+=ED=ED=EE=E9 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 (IDRP)</a>
+
+        </li></ul>
+
+</b>
+
+<h4>
+
+<a name=3D"28.1"> =C1=E8=E1=EB=E8=EE=E3=F0=E0=F4=E8=F7=E5=F1=EA=E0=FF =F1=
+=EF=F0=E0=E2=EA=E0</a>
+
+</h4><p align=3D"justify">
+
+
+
+=CF=F0=E8 =F1=EE=E4=E5=E9=F1=F2=E2=E8=E8 =CC=E5=E6=E4=F3=ED=E0=F0=EE=E4=ED=
+=EE=E9 =CE=F0=E3=E0=ED=E8=E7=E0=F6=E8=E8 =EF=EE =D1=F2=E0=ED=E4=E0=F0=F2=E8=
+=E7=E0=F6=E8=E8 (ISO) =F3=E6=E5=20
+
+=F0=E0=E7=F0=E0=E1=EE=F2=E0=ED=FB =E8=EB=E8 =F0=E0=E7=F0=E0=E1=E0=F2=FB=E2=
+=E0=FE=F2=F1=FF =E2 =ED=E0=F1=F2=EE=FF=F9=E5=E5 =E2=F0=E5=EC=FF =ED=E5=F1=
+=EA=EE=EB=FC=EA=EE =EF=F0=EE=F2=EE=EA=EE=EB=EE=E2=20
+
+=EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8. ISO =F1=F1=FB=EB=E0=E5=F2=F1=FF =
+=ED=E0 =CF=F0=EE=F2=EE=EA=EE=EB =CE=E1=EC=E5=ED=E0 =C2=ED=F3=F2=F0=E8=E4=EE=
+=EC=E5=ED=ED=EE=E9
+
+=CC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 =CF=F0=EE=EC=E5=E6=F3=F2=EE=F7=ED=
+=FB=F5 =D1=E8=F1=F2=E5=EC (<i>Intermediate System to Intermediate
+
+System Intra-Domain Routing Exchange Protocol (IS-IS)</i>) =EA=E0=EA =ED=E0=
+ ISO 10589.
+
+=C4=E2=E8=E3=E0=F2=E5=EB=FC=ED=EE=E9 =F1=E8=EB=EE=E9 =F1=F2=E0=ED=E4=E0=F0=
+=F2=E8=E7=E0=F6=E8=E8 ISO =E4=EE=EA=F3=EC=E5=ED=F2=E0 IS-IS =E1=FB=EB =EA=
+=EE=EC=E8=F2=E5=F2=20
+
+=D5.3S3.3 =C0=EC=E5=F0=E8=EA=E0=ED=F1=EA=EE=E3=EE =CD=E0=F6=E8=EE=ED=E0=EB=
+=FC=ED=EE=E3=EE =C8=ED=F1=F2=E8=F2=F3=F2=E0 =D1=F2=E0=ED=E4=E0=F0=F2=EE=E2=
+ (ANSI),=20
+
+=E7=E0=ED=E8=EC=E0=FE=F9=E8=E9=F1=FF =F1=E5=F2=E5=E2=FB=EC =E8 =F2=F0=E0=ED=
+=F1=EF=EE=F0=F2=ED=FB=EC =F3=F0=EE=E2=ED=FF=EC=E8. =C2 =F7=E8=F1=EB=E5 =E4=
+=F0=F3=E3=E8=F5 =EF=F0=EE=F2=EE=EA=EE=EB=EE=E2=20
+
+ISO, =F1=E2=FF=E7=E0=ED=ED=FB=F5 =F1 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=
+=E5=E9, =EF=F0=EE=F2=EE=EA=EE=EB=FB ISO 9542 (<i>End System to=20
+
+Intermediate System</i>, =E8=EB=E8 <i>ES-IS</i> - =CA=EE=ED=E5=F7=ED=E0=FF=
+ =F1=E8=F1=F2=E5=EC=E0-=CF=F0=EE=EC=E5=E6=F3=F2=EE=F7=ED=E0=FF=20
+
+=D1=E8=F1=F2=E5=EC=E0) =E8 ISO 10747 (IS-IS <i>Inter-Domain Routing Protoco=
+l</i>, =E8=EB=E8 <i>IDRP</i> -
+
+=CF=F0=EE=F2=EE=EA=EE=EB =EC=E5=E6=E4=EE=EC=E5=ED=ED=EE=E9 =EC=E0=F0=F8=F0=
+=F3=F2=E8=E7=E0=F6=E8=E8 =EF=F0=EE=EC=E5=E6=F3=F2=EE=F7=ED=FB=F5 =F1=E8=F1=
+=F2=E5=EC). =CE=E1 =FD=F2=E8=F5=20
+
+=EF=F0=EE=F2=EE=EA=EE=EB=E0=F5 =E1=F3=E4=E5=F2 =E2=EA=F0=E0=F2=F6=E5 =F3=EF=
+=EE=EC=FF=ED=F3=F2=EE =E2 =E4=E0=ED=ED=EE=E9 =E3=EB=E0=E2=E5, =EE=E4=ED=E0=
+=EA=EE o=F1=ED=EE=E2=ED=EE=E5=20
+
+=E2=ED=E8=EC=E0=ED=E8=E5 =F3=E4=E5=EB=E5=ED=EE =E2=ED=F3=F2=F0=E8=E4=EE=EC=
+=E5=ED=ED=EE=E9 =E2=E5=F0=F1=E8=E8 IS-IS.
+
+</p><p align=3D"justify">
+
+IS-IS =E1=E0=E7=E8=F0=F3=E5=F2=F1=FF =ED=E0 =F0=E0=E1=EE=F2=E5, =EA=EE=F2=
+=EE=F0=E0=FF =E1=FB=EB=E0 =E2=EF=E5=F0=E2=FB=E5 =E2=FB=EF=EE=EB=ED=E5=ED=E0=
+ Digital=20
+
+Equipment Corporation =EF=F0=E8 =F0=E0=E7=F0=E0=E1=EE=F2=EA=E5 Phase V DECn=
+et. =D5=EE=F2=FF IS-IS=20
+
+=EF=F0=E5=E4=ED=E0=E7=ED=E0=F7=E0=EB=F1=FF =E4=EB=FF =EC=E0=F0=F8=F0=F3=F2=
+=E8=E7=E0=F6=E8=E8 =E2 =F1=E5=F2=FF=F5 =EF=F0=EE=F2=EE=EA=EE=EB=E0 CLNP ISO=
+, =F1=EE
+
+=E2=F0=E5=EC=E5=ED=E5=EC =E1=FB=EB=E0 =F0=E0=E7=F0=E0=E1=EE=F2=E0=ED=E0 =EE=
+=E4=ED=E0 =E8=E7 =E5=E3=EE =E2=E5=F0=F1=E8=E9 =E4=EB=FF =EF=EE=E4=E4=E5=F0=
+=E6=EA=E8 =EA=E0=EA =F1=E5=F2=E5=E9
+
+CLNP, =F2=E0=EA =E8 =F1=E5=F2=E5=E9 IP. =CD=E0 =FD=F2=F3 =E2=E5=F0=F1=E8=FE=
+ IS-IS =EE=E1=FB=F7=ED=EE =F1=F1=FB=EB=E0=FE=F2=F1=FF =EA=E0=EA =ED=E0
+
+<i>Integrated IS-IS</i> (=E8=ED=F2=E5=E3=F0=E8=F0=EE=E2=E0=ED=ED=FB=E9);
+
+=E5=E5 =F2=E0=EA=E6=E5 =ED=E0=E7=FB=E2=E0=FE=F2 <i>Dual IS-IS</i>
+
+(=E4=E2=EE=E9=F1=F2=E2=E5=ED=ED=FB=E9). Integrated IS-IS =F2=E0=EA=E6=E5 =
+=F0=E0=F1=F1=EC=E0=F2=F0=E8=E2=E0=E5=F2=F1=FF =E2=EA=F0=E0=F2=F6=E5.
+
+
+
+</p><h4>
+
+<a name=3D"28.2"> =D2=E5=F0=EC=E8=ED=EE=EB=EE=E3=E8=FF</a>
+
+</h4><p align=3D"justify">
+
+=CE=E1'=E5=E4=E8=ED=E5=ED=ED=FB=E5 =F1=E5=F2=E8 OSI =E8=F1=EF=EE=EB=FC=E7=
+=F3=FE=F2 =F3=ED=E8=EA=E0=EB=FC=ED=F3=FE =F2=E5=F0=EC=E8=ED=EE=EB=EE=E3=E8=
+=FE. =D2=E5=F0=EC=E8=ED =20
+
+"=EA=EE=ED=E5=F7=ED=E0=FF =F1=E8=F1=F2=E5=EC=E0" (<i>end system - ES</i>)
+
+=EE=F2=ED=EE=F1=E8=F2=F1=FF =EA =EB=FE=E1=EE=EC=F3 =F3=E7=EB=F3 =F1=E5=F2=
+=E8,
+
+=EA=EE=F2=EE=F0=FB=E9 =ED=E5 =E7=E0=ED=E8=EC=E0=E5=F2=F1=FF =EC=E0=F0=F8=F0=
+=F3=F2=E8=E7=E0=F6=E8=E5=E9; =F2=E5=F0=EC=E8=ED "=EF=F0=EE=EC=E5=E6=F3=F2=
+=EE=F7=ED=E0=FF =F1=E8=F1=F2=E5=EC=E0"
+
+(<i>intermediate system-IS</i>) =EE=F2=ED=EE=F1=E8=F2=F1=FF =EA =F0=EE=F3=
+=F2=E5=F0=F3. =CD=E0 =FD=F2=E8=F5 =F2=E5=F0=EC=E8=ED=E0=F5
+
+=E1=E0=E7=E8=F0=F3=FE=F2=F1=FF =EF=F0=EE=F2=EE=EA=EE=EB=FB OSI ES-IS (=EA=
+=EE=F2=EE=F0=FB=E9 =EF=EE=E7=E2=EE=EB=FF=E5=F2 ES =E8 IS =ED=E0=F5=EE=E4=E8=
+=F2=FC
+
+=E4=F0=F3=E3 =E4=F0=F3=E3=E0) =E8 IS-IS (=EA=EE=F2=EE=F0=FB=E9 =EE=E1=E5=F1=
+=EF=E5=F7=E8=E2=E0=E5=F2 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=FE =EC=E5=E6=
+=E4=F3 IS).
+
+=CD=E8=E6=E5 =E4=E0=E5=F2=F1=FF =EE=EF=F0=E5=E4=E5=EB=E5=ED=E8=E5 =ED=E5=EA=
+=EE=F2=EE=F0=FB=F5 =E4=F0=F3=E3=E8=F5 =E2=E0=E6=ED=FB=F5 =F2=E5=F0=EC=E8=ED=
+=EE=E2 =EE=E1'=E5=E4=E8=ED=E5=ED=ED=FB=F5=20
+
+=F1=E5=F2=E5=E9 OSI:
+
+</p><dl>
+
+<dt> <i>Area</i>
+
+</dt><dd>	=CE=E1=EB=E0=F1=F2=FC. =C3=F0=F3=EF=EF=E0 =F1=EC=E5=E6=ED=FB=F5=
+ =F1=E5=F2=E5=E9 =E8 =EF=EE=E4=EA=EB=FE=F7=E5=ED=ED=FB=F5 =EA =ED=E8=EC =F5=
+=EE=F1=F2=EE=E2,
+
+	=EA=EE=F2=EE=F0=FB=E5 =EE=EF=F0=E5=E4=E5=EB=FF=FE=F2=F1=FF =EA=E0=EA =EE=
+=E1=EB=E0=F1=F2=FC =E0=E4=EC=E8=ED=E8=F1=F2=F0=E0=F2=EE=F0=EE=EC
+
+	=F1=E5=F2=E8 =E8=EB=E8 =E4=F0=F3=E3=E8=EC =E0=ED=E0=EB=EE=E3=E8=F7=ED=FB=
+=EC =EB=E8=F6=EE=EC.
+
+</dd><dt> <i>Domain</i>
+
+</dt><dd>	=C4=EE=EC=E5=ED. =CD=E0=E1=EE=F0 =F1=EE=E5=E4=E8=ED=E5=ED=ED=FB=
+=F5 =EE=E1=EB=E0=F1=F2=E5=E9. =C4=EE=EC=E5=ED=FB =EC=E0=F0=F8=F0=F3=F2=E8=
+=E7=E0=F6=E8=E8
+
+	=EE=E1=E5=F1=EF=E5=F7=E8=E2=E0=FE=F2 =EF=EE=EB=ED=F3=FE =F1=E2=FF=E7=ED=EE=
+=F1=F2=FC =F1=EE =E2=F1=E5=EC=E8 =EA=EE=ED=E5=F7=ED=FB=EC=E8 =F1=E8=F1=F2=
+=E5=EC=E0=EC=E8,=20
+
+	=ED=E0=F5=EE=E4=FF=F9=E8=EC=E8=F1=FF =E2 =E8=F5 =EF=F0=E5=E4=E5=EB=E0=F5.
+
+</dd><dt> <i>Level 1 routing</i>
+
+</dt><dd>	=CC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=FF =E2 =EF=F0=E5=E4=E5=EB=E0=
+=F5 =EE=E1=EB=E0=F1=F2=E8 =D3=F0=EE=E2=ED=FF 1.
+
+</dd><dt> <i>Level 2 routing</i>
+
+</dt><dd>	Ma=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=FF =EC=E5=E6=E4=F3 =EE=E1=EB=E0=
+=F1=F2=FF=EC=E8 =D3=F0=EE=E2=ED=FF 1.
+
+</dd></dl><p align=3D"justify">
+
+=CD=E0 =D0=E8=F1. 28-1 "=C8=E5=F0=E0=F0=F5=E8=FF =EE=E1'=E5=E4=E8=ED=E5=ED=
+=ED=FB=F5 =F1=E5=F2=E5=E9 OSI" =EF=EE=EA=E0=E7=E0=ED=E0 =E2=E7=E0=E8=EC=EE=
+=F1=E2=FF=E7=FC
+
+=EC=E5=E6=E4=F3 =FD=F2=E8=EC=E8 =F2=E5=F0=EC=E8=ED=E0=EC=E8.
+
+</p><p></p><center>
+
+<img src=3D"http://citforum.ru/pictures/it/ito/28-1.gif">
+
+</center><p align=3D"justify">
+
+=D1 =F7=E8=F1=F2=EE =F2=E5=F5=ED=EE=EB=EE=E3=E8=F7=E5=F1=EA=EE=E9 =F2=EE=F7=
+=EA=E8 =E7=F0=E5=ED=E8=FF IS-IS =EF=EE=F7=F2=E8 =E0=ED=E0=EB=EE=E3=E8=F7=E5=
+=ED =EF=F0=EE=F2=EE=EA=EE=EB=F3=20
+
+=EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 OSPF
+
+(=F1=EC=EE=F2=F0=E8 =C3=EB=E0=E2=F3 25 "<a href=3D"http://citforum.ru/nets/=
+ito/25.shtml">OSPF</a>").
+
+=CE=E1=E0 =EF=F0=EE=F2=EE=EA=EE=EB=E0 =FF=E2=EB=FF=FE=F2=F1=FF
+
+=EF=F0=EE=F2=EE=EA=EE=EB=E0=EC=E8 =F1 =F3=EA=E0=E7=E0=ED=E8=E5=EC =F1=EE=F1=
+=F2=EE=FF=ED=E8=FF =EA=E0=ED=E0=EB=E0. =CE=E1=E0 =EE=ED=E8 =EE=E1=E5=F1=EF=
+=E5=F7=E8=E2=E0=FE=F2=20
+
+=F0=E0=E7=EB=E8=F7=ED=FB=E5 =F5=E0=F0=E0=EA=F2=E5=F0=E8=F1=F2=E8=EA=E8, =EA=
+=EE=F2=EE=F0=FB=E5 =ED=E5 =EE=E1=E5=F1=EF=E5=F7=E8=E2=E0=E5=F2 RIP, =E2 =F2=
+=EE=EC =F7=E8=F1=EB=E5
+
+=E8=E5=F0=E0=F0=F5=E8=E8 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 (<i>routin=
+g hierachies</i>), =E4=F0=EE=E1=EB=E5=ED=E8=E5 =EF=F3=F2=E5=E9
+
+(<i>path splitting</i>), =EE=E1=E5=F1=EF=E5=F7=E5=ED=E8=E5 =F2=E8=EF=E0 =F3=
+=F1=EB=F3=E3=E8
+
+(<i>type-of-service - TOS</i>),
+
+=F3=E4=EE=F1=F2=EE=E2=E5=F0=E5=ED=E8=E5 (<i>authentication</i>), =EF=EE=E4=
+=E4=E5=F0=E6=EA=E0 =ED=E5=F1=EA=EE=EB=FC=EA=E8=F5 =EF=F0=EE=F2=EE=EA=EE=EB=
+=EE=E2 =F1=E5=F2=E5=E2=EE=E3=EE
+
+=F3=F0=EE=E2=ED=FF =E8 =EF=EE=E4=E4=E5=F0=E6=EA=E0 (=F1=EE=E2=EC=E5=F1=F2=
+=ED=EE =F1 =EF=F0=EE=F2=EE=EA=EE=EB=EE=EC Integrated IS-IS) =EC=E0=F1=EE=EA
+
+=EF=EE=E4=F1=E5=F2=E8 =EF=E5=F0=E5=EC=E5=ED=ED=EE=E9 =E4=EB=E8=ED=FB.
+
+
+
+</p><h4>
+
+<a name=3D"28.3"> ES-IS</a>
+
+</h4><p align=3D"justify">
+
+ES-IS =E2 =E1=EE=EB=FC=F8=E5=E9 =EC=E5=F0=E5 =FF=E2=EB=FF=E5=F2=F1=FF =EF=
+=F0=EE=F2=EE=EA=EE=EB=EE=EC =EE=E1=ED=E0=F0=F3=E6=E5=ED=E8=FF, =F7=E5=EC =
+=EF=F0=EE=F2=EE=EA=EE=EB=EE=EC
+
+=EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8. =D7=E5=F0=E5=E7 ES-IS =F1=E8=F1=F2=
+=E5=EC=FB ES =E8 IS =F3=E7=ED=E0=FE=F2 =E4=F0=F3=E3 =EE =E4=F0=F3=E3=E5. =
+=DD=F2=EE=F2
+
+=EF=F0=EE=F6=E5=F1=F1 =E8=E7=E2=E5=F1=F2=E5=ED =EA=E0=EA =EA=EE=ED=F4=E8=E3=
+=F3=F0=E0=F6=E8=FF (<i>configuration</i>). =D2.=EA. =EA=EE=ED=F4=E8=E3=F3=
+=F0=E0=F6=E8=FF
+
+=E4=EE=EB=E6=ED=E0 =E8=EC=E5=F2=FC =EC=E5=F1=F2=EE =EF=F0=E5=E6=E4=E5, =F7=
+=E5=EC =EC=EE=E6=E5=F2 =ED=E0=F7=E0=F2=FC=F1=FF =EC=E0=F0=F8=F0=F3=F2=E8=E7=
+=E0=F6=E8=FF =EC=E5=E6=E4=F3 ES,
+
+=EF=F0=EE=F2=EE=EA=EE=EB ES-IS =F0=E0=F1=F1=EC=E0=F2=F0=E8=E2=E0=E5=F2=F1=
+=FF =E2 =EF=E5=F0=E2=F3=FE =EE=F7=E5=F0=E5=E4=FC.
+
+</p><p align=3D"justify">
+
+ES-IS =F0=E0=E7=EB=E8=F7=E0=E5=F2 =F2=F0=E8 =F0=E0=E7=ED=FB=F5 =F2=E8=EF=E0=
+ =EF=EE=E4=F1=E5=F2=E5=E9:
+
+</p><dl>
+
+<dt> <i>Point-to-point subnetworks</i>
+
+</dt><dd>	=C4=E2=F3=F5=F2=EE=F7=E5=F7=ED=FB=E5 =EF=EE=E4=F1=E5=F2=E8. =CE=
+=E1=E5=F1=EF=E5=F7=E8=E2=E0=FE=F2
+
+	=ED=E5=EF=EE=F1=F0=E5=E4=F1=F2=E2=E5=ED=ED=EE=E5 =F1=EE=E5=E4=E8=ED=E5=ED=
+=E8=E5 =EC=E5=E6=E4=F3 =E4=E2=F3=EC=FF =F1=E8=F1=F2=E5=EC=E0=EC=E8. =C1=EE=
+=EB=FC=F8=E8=ED=F1=F2=E2=EE=20
+
+	=EF=EE=F1=EB=E5=E4=EE=E2=E0=F2=E5=EB=FC=ED=FB=F5 =EA=E0=ED=E0=EB=EE=E2 =E3=
+=EB=EE=E1=E0=EB=FC=ED=EE=E9 =F1=E5=F2=E8 =FF=E2=EB=FF=FE=F2=F1=FF
+
+	=E4=E2=F3=F5=F2=EE=F7=E5=F7=ED=FB=EC=E8 =F1=E5=F2=FF=EC=E8.
+
+</dd><dt> <i>Broadcast subnetworks</i>
+
+</dt><dd>	=D8=E8=F0=EE=EA=EE=E2=E5=F9=E0=F2=E5=EB=FC=ED=FB=E5 =EF=EE=E4=F1=
+=E5=F2=E8. =CD=E0=EF=F0=E0=E2=EB=FF=FE=F2
+
+	=EE=F2=E4=E5=EB=FC=ED=EE=E5 =F4=E8=E7=E8=F7=E5=F1=EA=EE=E5 =F1=EE=EE=E1=F9=
+=E5=ED=E8=E5 =E2=EE =E2=F1=E5 =F3=E7=EB=FB =E4=E0=ED=ED=EE=E9 =EF=EE=E4=F1=
+=E5=F2=E8. =CF=F0=E8=EC=E5=F0=E0=EC=E8=20
+
+	=F8=E8=F0=EE=EA=EE=E2=E5=F9=E0=F2=E5=EB=FC=ED=FB=F5 =EF=EE=E4=F1=E5=F2=E5=
+=E9 =FF=E2=EB=FF=FE=F2=F1=FF Ethernet =E8 IEEE 802.3 (=F1=EC=EE=F2=F0=E8=20
+
+	=C3=EB=E0=E2=F3 5 "<a href=3D"http://citforum.ru/nets/ito/5.shtml">Etherne=
+t/IEEE 802.3</a>").
+
+</dd><dt> <i>General-topology subnetworks</i>
+
+</dt><dd>	=CF=EE=E4=F1=E5=F2=E8 =F1 =EE=E1=F9=E5=E9 =F2=EE=EF=EE=EB=EE=E3=
+=E8=E5=E9.
+
+	=CF=EE=E4=E4=E5=F0=E6=E8=E2=E0=FE=F2 =EF=F0=EE=E8=E7=E2=EE=EB=FC=ED=EE=E5=
+ =F7=E8=F1=EB=EE =F1=E8=F1=F2=E5=EC. =CE=E4=ED=E0=EA=EE =E2 =EE=F2=EB=E8=F7=
+=E8=E5 =EE=F2=20
+
+	=F8=E8=F0=EE=EA=EE=E2=E5=F9=E0=F2=E5=EB=FC=ED=FB=F5 =EF=EE=E4=F1=E5=F2=E5=
+=E9, =E2=E5=EB=E8=F7=E8=ED=E0 =E7=E0=F2=F0=E0=F2 =ED=E0 =EF=E5=F0=E5=E4=E0=
+=F7=F3 =EF=EE
+
+	=EA=E0=EA=EE=EC=F3-=ED=E8=E1=F3=E4=FC
+
+	=EC=E0=F0=F8=F0=F3=F2=F3 n =ED=E5=EF=EE=F1=F0=E5=E4=F1=F2=E2=E5=ED=ED=EE=
+ =F1=E2=FF=E7=E0=ED=E0 =F1 =F0=E0=E7=EC=E5=F0=E0=EC=E8 =E4=E0=ED=ED=EE=E9=
+ =EF=EE=E4=F1=E5=F2=E8
+
+	=E2 =EF=EE=E4=F1=E5=F2=E8 =F1 =EE=E1=F9=E5=E9 =F2=EE=EF=EE=EB=EE=E3=E8=E5=
+=E9. =CF=F0=E8=EC=E5=F0=EE=EC =EF=EE=E4=F1=E5=F2=E8 =F1 =EE=E1=F9=E5=E9 =F2=
+=EE=EF=EE=EB=EE=E3=E8=E5=E9
+
+	=FF=E2=EB=FF=E5=F2=F1=FF =D5.25
+
+	(=F1=EC=EE=F2=F0=E8 =C3=EB=E0=E2=F3 13 "<a href=3D"http://citforum.ru/nets=
+/ito/13.shtml">=D5.25</a>").
+
+</dd></dl><p align=3D"justify">
+
+=C8=ED=F4=EE=F0=EC=E0=F6=E8=FF =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=E8 =EF=E5=
+=F0=E5=E4=E0=E5=F2=F1=FF =F7=E5=F0=E5=E7 =EE=EF=F0=E5=E4=E5=EB=E5=ED=ED=FB=
+=E5 =E8=ED=F2=E5=F0=E2=E0=EB=FB =E2=F0=E5=EC=E5=ED=E8
+
+=F1 =EF=EE=EC=EE=F9=FC=FE =F1=EE=EE=E1=F9=E5=ED=E8=E9 =E4=E2=F3=F5 =F2=E8=
+=EF=EE=E2. =CF=F0=E8=E2=E5=F2=F1=F2=E2=E5=ED=ED=FB=E5 =F1=EE=EE=E1=F9=E5=ED=
+=E8=FF ES (<i>Es hello
+
+messages - ESHs</i>) =E3=E5=ED=E5=F0=E8=F0=F3=FE=F2=F1=FF ES =E8 =EE=F2=EF=
+=F0=E0=E2=EB=FF=FE=F2=F1=FF =E2 =EA=E0=E6=E4=F3=FE
+
+IS =E4=E0=ED=ED=EE=E9 =EF=EE=E4=F1=E5=F2=E8.
+
+=CF=F0=E8=E2=E5=F2=F1=F2=E2=E5=ED=ED=FB=E5 =F1=EE=EE=E1=F9=E5=ED=E8=FF IS=
+ (<i>IS hello messages - ISH</i>)
+
+=E3=E5=ED=E5=F0=E8=F0=F3=FE=F2=F1=FF IS =E8=20
+
+=EE=F2=EF=F0=E0=E2=EB=FF=FE=F2=F1=FF =E2=F1=E5=EC ES =E4=E0=ED=ED=EE=E9 =EF=
+=EE=E4=F1=E5=F2=E8. =DD=F2=E8 =EF=F0=E8=E2=E5=F2=F1=F2=E2=E5=ED=ED=FB=E5 =
+=F1=EE=EE=E1=F9=E5=ED=E8=FF =E2
+
+=EE=F1=ED=EE=E2=ED=EE=EC =EF=F0=E5=E4=ED=E0=E7=ED=E0=F7=E5=ED=FB =E4=EB=FF=
+ =EF=E5=F0=E5=ED=EE=F1=E0 =E0=E4=F0=E5=F1=EE=E2 =EF=EE=E4=F1=E5=F2=E5=E9 =
+=E8 =E0=E4=F0=E5=F1=EE=E2 =F1=E5=F2=E5=E2=EE=E3=EE
+
+=F3=F0=EE=E2=ED=FF =F2=E5=F5 =F1=E8=F1=F2=E5=EC, =EA=EE=F2=EE=F0=FB=E5 =E3=
+=E5=ED=E5=F0=E8=F0=F3=FE=F2 =E8=F5.
+
+</p><p align=3D"justify">
+
+=CF=F0=E8 =E2=EE=E7=EC=EE=E6=ED=EE=F1=F2=E8 ES-IS =EF=FB=F2=E0=E5=F2=F1=FF=
+ =EE=F2=EF=F0=E0=E2=E8=F2=FC =E8=ED=F4=EE=F0=EC=E0=F6=E8=FE =EA=EE=ED=F4=E8=
+=E3=F3=F0=E0=F6=E8=E8
+
+=EE=E4=ED=EE=E2=F0=E5=EC=E5=ED=ED=EE =E2 =ED=E5=F1=EA=EE=EB=FC=EA=EE =F1=E8=
+=F1=F2=E5=EC. =C2 =F8=E8=F0=EE=EA=EE=E2=E5=F9=E0=F2=E5=EB=FC=ED=FB=F5 =EF=
+=EE=E4=F1=E5=F2=FF=F5
+
+=EF=F0=E8=E2=E5=F2=F1=F2=E2=E5=ED=ED=FB=E5 =F1=EE=EE=E1=F9=E5=ED=E8=FF ES-I=
+S =EE=F2=EF=F0=E0=E2=EB=FF=FE=F2=F1=FF =E2=EE =E2=F1=E5 IS =F1 =EF=EE=EC=EE=
+=F9=FC=FE=20
+
+=F1=EF=E5=F6=E8=E0=EB=FC=ED=EE=E9 =EC=ED=EE=E3=EE=EF=F3=ED=EA=F2=EE=E2=EE=
+=E9 =E0=E4=F0=E5=F1=E0=F6=E8=E8. IS =EE=F2=EF=F0=E0=E2=EB=FF=FE=F2 =EF=F0=
+=E8=E2=E5=F2=F1=F2=E2=E5=ED=ED=FB=E5=20
+
+=F1=EE=EE=E1=F9=E5=ED=E8=FF =EF=EE =F1=EF=E5=F6=E8=E0=EB=FC=ED=EE=EC=F3 =E0=
+=E4=F0=E5=F1=F3 =EC=ED=EE=E3=EE=EF=F3=ED=EA=F2=EE=E2=EE=E9 =E0=E4=F0=E5=F1=
+=E0=F6=E8=E8,=20
+
+=EE=EF=F0=E5=E4=E5=EB=E5=ED=ED=EE=E3=EE =E4=EB=FF =E2=F1=E5=F5 =EA=EE=ED=E5=
+=F7=ED=FB=F5 =F1=E8=F1=F2=E5=EC. =CF=F0=E8 =F0=E0=E1=EE=F2=E5 =E2 =EF=EE=E4=
+=F1=E5=F2=E8 =F1 =EE=E1=F9=E5=E9
+
+=F2=EE=EF=EE=EB=EE=E3=E8=E5=E9 ES-IS =EE=E1=FB=F7=ED=EE =ED=E5 =EF=E5=F0=E5=
+=E4=E0=E5=F2 =E8=ED=F4=EE=F0=EC=E0=F6=E8=FE =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=
+=E8=E8 =E8=E7-=E7=E0=20
+
+=E1=EE=EB=FC=F8=E8=F5 =E7=E0=F2=F0=E0=F2 =ED=E0 =EF=E5=F0=E5=E4=E0=F7=E8 =
+=EC=ED=EE=E3=EE=EF=F3=ED=EA=F2=EE=E2=EE=E9 =E0=E4=F0=E5=F1=E0=F6=E8=E8.
+
+</p><p align=3D"justify">
+
+ES-IS =EF=E5=F0=E5=ED=EE=F1=E8=F2 =EA=E0=EA =E0=E4=F0=E5=F1=E0 =F1=E5=F2=E5=
+=E2=EE=E3=EE =F3=F0=EE=E2=ED=FF, =F2=E0=EA =E8 =E0=E4=F0=E5=F1=E0 =EF=EE=E4=
+=F1=E5=F2=E5=E9.=20
+
+=C0=E4=F0=E5=F1=E0 =F1=E5=F2=E5=E2=EE=E3=EE =F3=F0=EE=E2=ED=FF OSI =E8=E4=
+=E5=ED=F2=E8=F4=E8=F6=E8=F0=F3=FE=F2 =EB=E8=E1=EE =F2=EE=F7=EA=F3 =E4=EE=F1=
+=F2=F3=EF=E0 =EA =F3=F1=EB=F3=E3=E0=EC
+
+=F1=E5=F2=E8 (NSAP), =EA=EE=F2=EE=F0=E0=FF =EF=F0=E5=E4=F1=F2=E0=E2=EB=FF=
+=E5=F2 =F1=EE=E1=EE=E9 =E8=ED=F2=E5=F0=F4=E5=E9=F1 =EC=E5=E6=E4=F3 =D3=F0=
+=EE=E2=ED=FF=EC=E8 3 =E8 4,
+
+=EB=E8=E1=EE =F2=E8=F2=F3=EB =EE=E1'=E5=EA=F2=E0 =F1=E5=F2=E8 (NET), =EA=EE=
+=F2=EE=F0=FB=E9 =FF=E2=EB=FF=E5=F2=F1=FF =EE=E1'=E5=EA=F2=EE=EC =F1=E5=F2=
+=E5=E2=EE=E3=EE
+
+=F3=F0=EE=E2=ED=FF =E2 OSI IS. =C0=E4=F0=E5=F1=E0 =EF=EE=E4=F1=E5=F2=E5=E9=
+ OSI (=E8=ED=EE=E3=E4=E0 =ED=E0=E7=FB=E2=E0=E5=EC=FB=E5 =E0=E4=F0=E5=F1=E0=
+=EC=E8=20
+
+=F2=EE=F7=EA=E8 =EF=EE=E4=EA=EB=FE=F7=E5=ED=E8=FF =EF=EE=E4=F1=E5=F2=E8 -=
+ <i>subnetwork point of attachment - SNPA</i>)
+
+=FF=E2=EB=FF=FE=F2=F1=FF =F2=EE=F7=EA=E0=EC=E8, =E2 =EA=EE=F2=EE=F0=FB=F5=
+ ES =E8=EB=E8 IS =F4=E8=E7=E8=F7=E5=F1=EA=E8 =EF=EE=E4=EA=EB=FE=F7=E5=ED=E0=
+ =EA =EA=E0=EA=EE=E9-=ED=E8=E1=F3=E4=FC
+
+=EF=EE=E4=F1=E5=F2=E8. =C0=E4=F0=E5=F1 SNPA =F3=ED=E8=EA=E0=EB=FC=ED=FB=EC=
+ =EE=E1=F0=E0=E7=EE=EC =E8=E4=E5=ED=F2=E8=F4=E8=F6=E8=F0=F3=E5=F2 =EA=E0=E6=
+=E4=F3=FE
+
+=F1=E8=F1=F2=E5=EC=F3, =EF=EE=E4=EA=EB=FE=F7=E5=ED=ED=F3=FE =EA =E4=E0=ED=
+=ED=EE=E9 =EF=EE=E4=F1=E5=F2=E8. =C2 =F1=E5=F2=E8 Ethernet, =ED=E0=EF=F0=E8=
+=EC=E5=F0, SNPA=20
+
+=FF=E2=EB=FF=E5=F2=F1=FF 48-=E1=E8=F2=EE=E2=FB=EC =E0=E4=F0=E5=F1=EE=EC =F3=
+=EF=F0=E0=E2=EB=E5=ED=E8=FF =E4=EE=F1=F2=F3=EF=EE=EC =EA =ED=EE=F1=E8=F2=E5=
+=EB=FE (=CC=C0=D1).
+
+=D7=E0=F1=F2=FC =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8 =EA=EE=ED=F4=E8=E3=F3=F0=E0=
+=F6=E8=E8, =EA=EE=F2=EE=F0=F3=FE =EF=E5=F0=E5=E4=E0=E5=F2 ES-IS, =EF=F0=E5=
+=E4=F1=F2=E0=E2=EB=FF=E5=F2
+
+=F1=EE=E1=EE=E9 =EE=F2=EE=E1=F0=E0=E6=E5=ED=E8=E5 =F1=EE=EE=F2=E2=E5=F2=F1=
+=F2=E2=E8=FF =EC=E5=E6=E4=F3 NSAP =E8 SNPA =E8=EB=E8 =EC=E5=E6=E4=F3 NET =
+=E8 SNPA.
+
+</p><p align=3D"justify">
+
+=CD=E0 =D0=E8=F1. 28-2 =EF=F0=E5=E4=F1=F2=E0=E2=EB=E5=ED=FB =F4=EE=F0=EC=E0=
+=F2=FB =EF=E0=EA=E5=F2=EE=E2 ESH =E8 ISH.
+
+</p><p></p><center>
+
+<img src=3D"http://citforum.ru/pictures/it/ito/28-2.gif">
+
+</center><p align=3D"justify">
+
+
+
+</p><h4>
+
+<a name=3D"28.4"> IS-IS</a>
+
+</h4><p align=3D"justify">
+
+IS-IS =FF=E2=EB=FF=E5=F2=F1=FF =EF=F0=EE=F2=EE=EA=EE=EB=EE=EC =EC=E0=F0=F8=
+=F0=F3=F2=E8=E7=E0=F6=E8=E8 =F1 =F3=EA=E0=E7=E0=ED=E8=E5=EC =F1=EE=F1=F2=EE=
+=FF=ED=E8=FF =EA=E0=ED=E0=EB=E0.
+
+=C2 =FD=F2=EE=EC =F0=EE=EB=E8 =EE=ED =EF=E5=F0=E5=E4=E0=E5=F2 =EF=EE =F1=E5=
+=F2=E8 =EB=E0=E2=E8=ED=ED=EE=E9 =E0=E4=F0=E5=F1=E0=F6=E8=E5=E9 =E8=ED=F4=EE=
+=F0=EC=E0=F6=E8=FE =EE=20
+
+=F1=EE=F1=F2=EE=FF=ED=E8=E8 =EA=E0=ED=E0=EB=E0 =E4=EB=FF =EF=EE=F1=F2=F0=EE=
+=E5=ED=E8=FF =EF=EE=EB=ED=EE=E9, =EF=EE=F1=EB=E5=E4=EE=E2=E0=F2=E5=EB=FC=ED=
+=EE=E9 =EA=E0=F0=F2=E8=ED=FB=20
+
+=F2=EE=EF=EE=EB=EE=E3=E8=E8 =F1=E5=F2=E8.
+
+
+
+</p><p align=3D"justify"><b>
+
+<a name=3D"28.4.1"> =C8=E5=F0=E0=F0=F5=E8=FF =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=
+=F6=E8=E8</a>
+
+</b><br>
+
+=C4=EB=FF =F3=EF=F0=EE=F9=E5=ED=E8=FF =F1=F5=E5=EC=FB =E8 =F0=E0=E1=EE=F2=
+=FB =F0=EE=F3=F2=E5=F0=E0 IS-IS =F0=E0=E7=EB=E8=F7=E0=E5=F2 IS =F3=F0=EE=E2=
+=ED=E5=E9 1
+
+=E8 2. IS =F3=F0=EE=E2=ED=FF 1 =EC=EE=E3=F3=F2 =F1=EE=EE=E1=F9=E0=F2=FC=F1=
+=FF =F1 =E4=F0=F3=E3=E8=EC=E8 IS =F3=F0=EE=E2=ED=FF 1, =ED=E0=F5=EE=E4=FF=
+=F9=E8=EC=E8=F1=FF =E2=20
+
+=F2=EE=E9 =E6=E5 =EE=E1=EB=E0=F1=F2=E8. IS =F3=F0=EE=E2=ED=FF 2 =EC=EE=E3=
+=F3=F2 =F1=EE=EE=E1=F9=E0=F2=FC=F1=FF =F1 IS =E4=F0=F3=E3=E8=F5 =EE=E1=EB=
+=E0=F1=F2=E5=E9. =D2.=E5.=20
+
+IS =F3=F0=EE=E2=ED=FF 1 =F4=EE=F0=EC=E8=F0=F3=FE=F2 =EE=E1=EB=E0=F1=F2=E8=
+ =F3=F0=EE=E2=ED=FF 1; IS =F3=F0=EE=E2=ED=FF 2 =EE=F1=F3=F9=E5=F1=F2=E2=EB=
+=FF=FE=F2=20
+
+=EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=FE =EC=E5=E6=E4=F3 =EE=E1=EB=E0=F1=F2=
+=FF=EC=E8 =F3=F0=EE=E2=ED=FF 1.
+
+</p><p align=3D"justify">
+
+IS =F3=F0=EE=E2=ED=FF 2 =F4=EE=F0=EC=E8=F0=F3=FE=F2 =F1=F2=E5=F0=E6=E5=ED=
+=FC =E2=ED=F3=F2=F0=E8=E4=EE=EC=E5=ED=ED=EE=E9 =EC=E0=F0=F8=F0=F3=F2=E8=E7=
+=E0=F6=E8=E8. =C4=F0=F3=E3=E8=EC=E8=20
+
+=F1=EB=EE=E2=E0=EC=E8, IS =F3=F0=EE=E2=ED=FF 2 =EC=EE=E3=F3=F2 =EF=EE=EF=E0=
+=F1=F2=FC =E2 =E4=F0=F3=E3=E8=E5 IS =F3=F0=EE=E2=ED=FF 2 =EF=F3=F2=E5=EC=20
+
+=EF=E5=F0=E5=F1=E5=F7=E5=ED=E8=FF =F2=EE=EB=FC=EA=EE IS  =F3=F0=EE=E2=ED=FF=
+ 2. =CD=E0=EB=E8=F7=E8=E5 =F2=E0=EA=EE=E3=EE =F1=F2=E5=F0=E6=ED=FF =F3=EF=
+=F0=EE=F9=E0=E5=F2 =F1=F5=E5=EC=F3,=20
+
+=F2.=EA. =E2 =FD=F2=EE=EC =F1=EB=F3=F7=E0=E5 IS =F3=F0=EE=E2=ED=FF 1 =ED=F3=
+=E6=ED=EE =F3=EC=E5=F2=FC =F2=EE=EB=FC=EA=EE =EF=EE=EF=E0=E4=E0=F2=FC =E2=
+ =E1=EB=E8=E6=E0=E9=F8=E8=E9=20
+
+IS =F3=F0=EE=E2=ED=FF 2. =CF=F0=EE=F2=EE=EA=EE=EB =F1=F2=E5=F0=E6=ED=E5=E2=
+=EE=E9 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 =EC=EE=E6=E5=F2 =F2=E0=EA=E6=
+=E5 =E2=ED=EE=F1=E8=F2=FC=20
+
+=E8=E7=EC=E5=ED=E5=ED=E8=FF, =ED=E5 =EE=EA=E0=E7=FB=E2=E0=FF =E2=EB=E8=FF=
+=ED=E8=FF =ED=E0 =EF=F0=EE=F2=EE=EA=EE=EB =E2=ED=F3=F2=F0=E8=EE=E1=EB=E0=F1=
+=F2=ED=EE=E9=20
+
+=EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8.
+
+
+
+</p><p align=3D"justify"><b>
+
+<a name=3D"28.4.2"> =D1=EE=EE=E1=F9=E5=ED=E8=E5 =EC=E5=E6=E4=F3 ES</a>
+
+</b><br>
+
+=CC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=FF OSI =E2=FB=EF=EE=EB=ED=FF=E5=F2=F1=
+=FF =F1=EB=E5=E4=F3=FE=F9=E8=EC =EE=E1=F0=E0=E7=EE=EC. =CA=E0=E6=E4=E0=FF=
+ ES =EF=F0=E8=ED=E0=E4=EB=E5=E6=E8=F2
+
+=EA=EE=ED=EA=F0=E5=F2=ED=EE=E9 =EE=E1=EB=E0=F1=F2=E8. ES =EE=E1=ED=E0=F0=F3=
+=E6=E8=E2=E0=FE=F2 =E1=EB=E8=E6=E0=E9=F8=F3=FE IS =EF=F3=F2=E5=EC =EF=F0=EE=
+=F1=EB=F3=F8=E8=E2=E0=ED=E8=FF
+
+=EF=E0=EA=E5=F2=EE=E2 ISH. =C5=F1=EB=E8 =EA=E0=EA=E0=FF-=ED=E8=E1=F3=E4=FC=
+ ES =E7=E0=F5=EE=F7=E5=F2 =EE=F2=EF=F0=E0=E2=E8=F2=FC =EF=E0=EA=E5=F2 =E2=
+ =E4=F0=F3=E3=F3=FE ES,
+
+=EE=ED=E0 =ED=E0=EF=F0=E0=E2=EB=FF=E5=F2 =EF=E0=EA=E5=F2 =E2 =EE=E4=ED=F3=
+ =E8=E7 IS =F1=E5=F2=E8, =EA =EA=EE=F2=EE=F0=EE=E9 =EE=ED=E0 =ED=E5=EF=EE=
+=F1=F0=E5=E4=F1=F2=E2=E5=ED=ED=EE
+
+=EF=EE=E4=EA=EB=FE=F7=E5=ED=E0. =D0=EE=F3=F2=E5=F0 =EF=F0=EE=F1=EC=E0=F2=F0=
+=E8=E2=E0=E5=F2 =E0=E4=F0=E5=F1 =EF=F3=ED=EA=F2=E0 =ED=E0=E7=ED=E0=F7=E5=ED=
+=E8=FF =E8
+
+=EF=F0=EE=E4=E2=E8=E3=E0=E5=F2 =EF=E0=EA=E5=F2 =EF=EE =ED=E0=E8=EB=F3=F7=F8=
+=E5=EC=F3 =EC=E0=F0=F8=F0=F3=F2=F3. =C5=F1=EB=E8 ES =EF=F3=ED=EA=F2=E0 =ED=
+=E0=E7=ED=E0=F7=E5=ED=E8=FF=20
+
+=ED=E0=F5=EE=E4=E8=F2=F1=FF =E2 =F2=EE=E9 =E6=E5 =EF=EE=E4=F1=E5=F2=E8, =F2=
+=EE =EC=E5=F1=F2=ED=E0=FF IS =F3=E7=ED=E0=E5=F2 =EE=E1 =FD=F2=EE=EC =E2 =F0=
+=E5=E7=F3=EB=FC=F2=E0=F2=E5=20
+
+=EF=F0=EE=F1=EB=F3=F8=E8=E2=E0=ED=E8=FF ESH =E8 =F1=EE=EE=F2=E2=E5=F2=F1=F2=
+=E2=F3=FE=F9=E8=EC =EE=E1=F0=E0=E7=EE=EC =EF=F0=EE=E4=E2=E8=ED=E5=F2 =EF=E0=
+=EA=E5=F2. =C2 =FD=F2=EE=EC
+
+=F1=EB=F3=F7=E0=E5 IS =EC=EE=E6=E5=F2 =F2=E0=EA=E6=E5 =EE=E1=E5=F1=EF=E5=F7=
+=E8=F2=FC =EE=F2=EF=F0=E0=E2=EA=F3 =F1=EE=EE=E1=F9=E5=ED=E8=FF =EE =EF=E5=
+=F0=E5=E0=E4=F0=E5=F1=E0=F6=E8=E8=20
+
+(<i>redirect</i> - RD) =E2 =E8=F1=F2=EE=F7=ED=E8=EA =EF=E0=EA=E5=F2=E0, =F7=
+=F2=EE=E1=FB =F1=EE=EE=E1=F9=E8=F2=FC =EE =E4=EE=F1=F2=F3=EF=ED=EE=F1=F2=E8
+
+=E1=EE=EB=E5=E5 =EF=F0=FF=EC=EE=E3=EE
+
+=EF=F3=F2=E8. =C5=F1=EB=E8 =E0=E4=F0=E5=F1=EE=EC =EF=F3=ED=EA=F2=E0 =ED=E0=
+=E7=ED=E0=F7=E5=ED=E8=FF =FF=E2=EB=FF=E5=F2=F1=FF =EA=E0=EA=E0=FF-=ED=E8=E1=
+=F3=E4=FC ES =E4=F0=F3=E3=EE=E9
+
+=EF=EE=E4=F1=E5=F2=E8 =F2=EE=E9 =E6=E5 =EE=E1=EB=E0=F1=F2=E8, =F2=EE IS =F3=
+=E7=ED=E0=E5=F2 =EE =F2=EE=F7=ED=EE=EC =EC=E0=F0=F8=F0=F3=F2=E5 =E8=20
+
+=F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=FE=F9=E8=EC =EE=E1=F0=E0=E7=EE=EC =EF=F0=
+=EE=E4=E2=E8=ED=E5=F2 =EF=E0=EA=E5=F2. =C5=F1=EB=E8 =E0=E4=F0=E5=F1=EE=EC=
+ =EF=F3=ED=EA=F2=E0 =ED=E0=E7=ED=E0=F7=E5=ED=E8=FF
+
+=FF=E2=EB=FF=E5=F2=F1=FF =EA=E0=EA=E0=FF-=ED=E8=E1=F3=E4=FC ES =E4=F0=F3=E3=
+=EE=E9 =EE=E1=EB=E0=F1=F2=E8, =F2=EE IS =F3=F0=EE=E2=ED=FF 1 =EE=F2=EF=F0=
+=E0=E2=EB=FF=E5=F2 =FD=F2=EE=F2=20
+
+=EF=E0=EA=E5=F2 =E2 =E2 =E1=EB=E8=E6=E0=E9=F8=F3=FE IS =F3=F0=EE=E2=ED=FF=
+ 2. =CF=F0=EE=E4=E2=E8=E6=E5=ED=E8=E5 =EF=E0=EA=E5=F2=E0 =F7=E5=F0=E5=E7 IS=
+ =F3=F0=EE=E2=ED=FF 2
+
+=EF=F0=EE=E4=EE=EB=E6=E0=E5=F2=F1=FF =E4=EE =F2=E5=F5 =EF=EE=F0, =EF=EE=EA=
+=E0 =EE=ED =ED=E5 =E4=EE=F1=F2=E8=E3=ED=E5=F2 IS =F3=F0=EE=E2=ED=FF 2 =E2=
+ =EE=E1=EB=E0=F1=F2=E8=20
+
+=EF=F3=ED=EA=F2=E0  =ED=E0=E7=ED=E0=F7=E5=ED=E8=FF. =C2 =EF=F0=E5=E4=E5=EB=
+=E0=F5 =EE=E1=EB=E0=F1=F2=E8 =EF=F3=ED=EA=F2=E0 =ED=E0=E7=ED=E0=F7=E5=ED=E8=
+=FF IS =EF=F0=EE=E4=E2=E8=E3=E0=FE=F2
+
+=EF=E0=EA=E5=F2 =EF=EE =ED=E0=E8=EB=F3=F7=F8=E5=EC=F3 =EC=E0=F0=F8=F0=F3=F2=
+=F3, =EF=EE=EA=E0 =ED=E5 =E1=F3=E4=E5=F2 =E4=EE=F1=F2=E8=E3=ED=F3=F2a ES =
+=EF=F3=ED=EA=F2=E0
+
+=ED=E0=E7=ED=E0=F7=E5=ED=E8=FF.
+
+</p><p align=3D"justify">
+
+=CA=E0=E6=E4=E0=FF IS =E3=E5=ED=E5=F0=E8=F0=F3=E5=F2 =EA=EE=F0=F0=E5=EA=F2=
+=E8=F0=EE=E2=EA=F3, =EE=EF=F0=E5=E4=E5=EB=FF=FE=F9=F3=FE ES =E8 IS, =F1 =EA=
+=EE=F2=EE=F0=FB=EC=E8=20
+
+=EE=ED=E0 =F1=EE=E5=E4=E8=ED=E5=ED=E0, =E0 =F2=E0=EA=E6=E5 =F1=E2=FF=E7=E0=
+=ED=ED=FB=E5 =F1 =ED=E5=E9 =EF=EE=EA=E0=E7=E0=F2=E5=EB=E8. =DD=F2=E0 =EA=EE=
+=F0=F0=E5=EA=F2=E8=F0=EE=E2=EA=E0=20
+
+=EE=F2=EF=F0=E0=E2=EB=FF=E5=F2=F1=FF =E2=EE =E2=F1=E5 =F1=EE=F1=E5=E4=ED=E8=
+=E5 IS, =EA=EE=F2=EE=F0=FB=E5 =EF=F0=EE=E4=E2=E8=E3=E0=FE=F2 =E5=E5 =F1=E2=
+=EE=E8=EC =F1=EE=F1=E5=E4=FF=EC,=20
+
+=E8 =F2.=E4. (=EB=E0=E2=E8=ED=ED=E0=FF =E0=E4=F0=E5=F1=E0=F6=E8=FF). =CD=EE=
+=EC=E5=F0=E0 =EF=EE=F1=EB=E5=E4=EE=E2=E0=F2=E5=EB=FC=ED=EE=F1=F2=E5=E9 =EF=
+=F0=E5=EA=F0=E0=F9=E0=FE=F2=20
+
+=EB=E0=E2=E8=ED=ED=F3=FE =E0=E4=F0=E5=F1=E0=F6=E8=FE =E8 =EE=F2=EB=E8=F7=E0=
+=FE=F2 =F1=F2=E0=F0=FB=E5 =EA=EE=F0=F0=E5=EA=F2=E8=F0=EE=E2=EA=E8 =EE=F2 =
+=ED=EE=E2=FB=F5. =D2.=EA.=20
+
+=EA=E0=E6=E4=E0=FF IS =EF=EE=EB=F3=F7=E0=E5=F2 =EA=EE=F0=F0=E5=EA=F2=E8=F0=
+=EE=E2=EA=E8 =EE =F1=EE=F1=F2=EE=FF=ED=E8=E8 =EA=E0=ED=E0=EB=E0 =EE=F2 =E2=
+=F1=E5=F5 =E4=F0=F3=E3=E8=F5 IS,=20
+
+=F2=EE =EA=E0=E6=E4=E0=FF IS =EC=EE=E6=E5=F2 =EF=EE=F1=F2=F0=EE=E8=F2=FC =
+=EF=EE=EB=ED=F3=FE =E1=E0=E7=F3 =E4=E0=ED=ED=FB=F5 =E2=F1=E5=E9 =F2=EE=EF=
+=EE=EB=EE=E3=E8=E8 =F1=E5=F2=E8.=20
+
+=CF=F0=E8 =E8=E7=EC=E5=ED=E5=ED=E8=E8 =F2=EE=EF=EE=EB=EE=E3=E8=E8 =EE=F2=EF=
+=F0=E0=E2=EB=FF=FE=F2=F1=FF =ED=EE=E2=FB=E5 =EA=EE=F0=F0=E5=EA=F2=E8=F0=EE=
+=E2=EA=E8.
+
+
+
+</p><p align=3D"justify"><b>
+
+<a name=3D"28.4.3"> =CF=EE=EA=E0=E7=E0=F2=E5=EB=E8 (=EC=E5=F2=F0=E8=EA=E8)<=
+/a>
+
+</b><br>
+
+IS-IS =E8=F1=EF=EE=EB=FC=E7=F3=E5=F2 =EE=E4=E8=ED =EE=E1=FF=E7=E0=F2=E5=EB=
+=FC=ED=FB=E9, =F3=F1=F2=E0=ED=E0=E2=EB=E8=E2=E0=E5=EC=FB=E9 =EF=EE =F3=EC=
+=EE=EB=F7=E0=ED=E8=FE
+
+=EF=EE=EA=E0=E7=E0=F2=E5=EB=FC =F1 =EC=E0=EA=F1=E8=EC=E0=EB=FC=ED=FB=EC =E7=
+=ED=E0=F7=E5=ED=E8=E5=EC =EF=F3=F2=E8 1024. =DD=F2=EE=F2 =EF=EE=EA=E0=E7=E0=
+=F2=E5=EB=FC
+
+=FF=E2=EB=FF=E5=F2=F1=FF =EF=F0=EE=E8=E7=E2=EE=EB=FC=ED=FB=EC =E8 =EE=E1=FB=
+=F7=ED=EE =ED=E0=E7=ED=E0=F7=E0=E5=F2=F1=FF =E0=E4=EC=E8=ED=E8=F1=F2=F0=E0=
+=F2=EE=F0=EE=EC =F1=E5=F2=E8. =CB=FE=E1=EE=E9
+
+=EE=F2=E4=E5=EB=FC=ED=FB=E9 =EA=E0=ED=E0=EB =EC=EE=E6=E5=F2 =E8=EC=E5=F2=FC=
+ =EC=E0=EA=F1=E8=EC=E0=EB=FC=ED=EE=E5 =E7=ED=E0=F7=E5=ED=E8=E5 64. =C4=EB=
+=E8=ED=E0 =EF=F3=F2=E5=E9
+
+=E2=FB=F7=E8=F1=EB=FF=E5=F2=F1=FF =EF=F3=F2=E5=EC =F1=F3=EC=EC=E8=F0=EE=E2=
+=E0=ED=E8=FF =E7=ED=E0=F7=E5=ED=E8=E9 =EA=E0=ED=E0=EB=EE=E2. =CC=E0=EA=F1=
+=E8=EC=E0=EB=FC=ED=FB=E5 =E7=ED=E0=F7=E5=ED=E8=FF
+
+=EA=E0=ED=E0=EB=EE=E2 =F3=F1=F2=E0=ED=EE=E2=EB=E5=ED=FB =ED=E0 =FD=F2=E8=F5=
+ =F3=F0=EE=E2=ED=FF=F5 =E4=EB=FF =EE=E1=E5=F1=EF=E5=F7=E5=ED=E8=FF =F1=F2=
+=E5=EF=E5=ED=E8=20
+
+=E4=E5=F2=E0=EB=E8=E7=E0=F6=E8=E8, =F7=F2=EE=E1=FB =EF=EE=E4=E4=E5=F0=E6=E8=
+=E2=E0=F2=FC =F0=E0=E7=EB=E8=F7=ED=FB=E5 =F2=E8=EF=FB =EA=E0=ED=E0=EB=EE=E2=
+, =EE=E4=ED=EE=E2=F0=E5=EC=E5=ED=ED=EE=20
+
+=EE=E1=E5=F1=EF=E5=F7=E8=E2=E0=FF =E4=EE=F1=F2=E0=F2=EE=F7=ED=F3=FE =FD=F4=
+=F4=E5=EA=F2=E8=E2=ED=EE=F1=F2=FC =E0=EB=E3=EE=F0=E8=F2=EC=E0 =EF=EE=E8=F1=
+=EA=E0 =ED=E0=E8=EA=F0=E0=F2=F7=E0=E9=F8=E5=E3=EE
+
+=EF=F3=F2=E8, =E8=F1=EF=EE=EB=FC=E7=F3=E5=EC=EE=E3=EE =E4=EB=FF =F0=E0=F1=
+=F7=E5=F2=E0 =EC=E0=F0=F8=F0=F3=F2=E0.
+
+</p><p align=3D"justify">
+
+IS-IS =F2=E0=EA=E6=E5 =EE=EF=F0=E5=E4=E5=EB=FF=E5=F2 =F2=F0=E8 =E4=EE=EF=EE=
+=EB=ED=E8=F2=E5=EB=FC=ED=FB=F5 =EF=EE=EA=E0=E7=E0=F2=E5=EB=FF (=E7=E0=F2=F0=
+=E0=F2=FB)
+
+=E2 =EA=E0=F7=E5=F1=F2=E2=E5 =EE=EF=F6=E8=E9 =E4=EB=FF =F2=E5=F5 =E0=E4=EC=
+=E8=ED=E8=F1=F2=F0=E0=F2=EE=F0=EE=E2, =EA=EE=F2=EE=F0=FB=E5 =E8=F1=EF=FB=F2=
+=FB=E2=E0=FE=F2 =E2 =ED=E8=F5
+
+=ED=E5=EE=E1=F5=EE=E4=E8=EC=EE=F1=F2=FC. =C7=E0=F2=F0=E0=F2=FB =E7=E0=E4=E5=
+=F0=E6=EA=E8 (<i>delay</i>) =EE=F2=F0=E0=E6=E0=FE=F2 =E2=E5=EB=E8=F7=E8=ED=
+=F3 =E7=E0=E4=E5=F0=E6=EA=E8 =E2
+
+=EA=E0=ED=E0=EB=E5. =C7=E0=F2=F0=E0=F2=FB =ED=E0 =E8=E7=E4=E5=F0=E6=EA=E8=
+ (<i>expense</i>) =EE=F2=F0=E0=E6=E0=FE=F2 =EA=EE=EC=EC=F3=ED=E8=EA=E0=F6=
+=E8=EE=ED=ED=FB=E5 =20
+
+=E7=E0=F2=F0=E0=F2=FB, =F1=E2=FF=E7=E0=ED=ED=FB=E5 =F1 =E8=F1=EF=EE=EB=FC=
+=E7=EE=E2=E0=ED=E8=E5=EC =E4=E0=ED=ED=EE=E3=EE =EA=E0=ED=E0=EB=E0. =C7=E0=
+=F2=F0=E0=F2=FB =ED=E0 =EE=F8=E8=E1=EA=E8
+
+(<i>error</i>) =EE=F2=F0=E0=E6=E0=FE=F2 =EA=EE=FD=F4=F4=E8=F6=E8=E5=ED=F2=
+ =EE=F8=E8=E1=EE=EA =E4=E0=ED=ED=EE=E3=EE =EA=E0=ED=E0=EB=E0.=20
+
+</p><p align=3D"justify">
+
+IS-IS =EE=E1=E5=F1=EF=E5=F7=E8=E2=E0=E5=F2 =F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=
+=E8=E5 =FD=F2=E8=F5 =F7=E5=F2=FB=F0=E5=F5 =EF=EE=EA=E0=E7=E0=F2=E5=EB=E5=E9=
+ =EE=EF=F6=E8=E8 =EA=E0=F7=E5=F1=F2=E2=E0
+
+=EE=E1=F1=EB=F3=E6=E8=E2=E0=ED=E8=FF (<i>quality-of-service</i> - QOS) =E2=
+ =E7=E0=E3=EE=EB=EE=E2=EA=E5 =EF=E0=EA=E5=F2=E0 CLNP.=20
+
+=CF=EE=EB=FC=E7=F3=FF=F1=FC =FD=F2=E8=EC =F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=E8=
+=E5=EC, IS-IS =EC=EE=E6=E5=F2 =E2=FB=F7=E8=F1=EB=FF=F2=FC =EC=E0=F0=F8=F0=
+=F3=F2=FB =F7=E5=F0=E5=E7 =20
+
+=EE=E1'=E5=E4=E8=ED=E5=ED=ED=F3=FE =F1=E5=F2=FC.
+
+
+
+</p><p align=3D"justify"><b>
+
+<a name=3D"28.4.4"> =D4=EE=F0=EC=E0=F2 =EF=E0=EA=E5=F2=E0</a>
+
+</b><br>
+
+IS-IS =E8=F1=EF=EE=EB=FC=E7=F3=E5=F2 =F2=F0=E8 =E1=E0=E7=EE=E2=FB=F5 =F4=EE=
+=F0=EC=E0=F2=E0 =EF=E0=EA=E5=F2=E0:
+
+</p><dl>
+
+<dd> <i>IS-IS hello packets</i> - =EF=F0=E8=E2=E5=F2=F1=F2=E2=E5=ED=ED=FB=
+=E5 =EF=E0=EA=E5=F2=FB IS-IS
+
+</dd><dd> <i>Link state packets (LSPs)</i> - =EF=E0=EA=E5=F2=FB =F1=EE=F1=
+=F2=EE=FF=ED=E8=FF =EA=E0=ED=E0=EB=E0
+
+</dd><dd> <i>Sequence numbers packets (SNPs)</i> - =EF=E0=EA=E5=F2=FB =ED=
+=EE=EC=E5=F0=EE=E2 =EF=EE=F1=EB=E5=E4=EE=E2=E0=F2=E5=EB=FC=ED=EE=F1=F2=E5=E9
+
+</dd></dl><p align=3D"justify">
+
+=CA=E0=E6=E4=FB=E9 =E8=E7 =FD=F2=E8=F5 =F2=F0=E5=F5 =EF=E0=EA=E5=F2=EE=E2=
+ IS-IS =E8=EC=E5=E5=F2 =F1=EB=EE=E6=ED=FB=E9 =F4=EE=F0=EC=E0=F2 =F1 =F2=F0=
+=E5=EC=FF=20
+
+=F0=E0=E7=EB=E8=F7=ED=FB=EC=E8 =EB=EE=E3=E8=F7=E5=F1=EA=E8=EC=E8 =F7=E0=F1=
+=F2=FF=EC=E8. =CF=E5=F0=E2=EE=E9 =F7=E0=F1=F2=FC=FE =FF=E2=EB=FF=E5=F2=F1=
+=FF 8-=E1=E0=E9=F2=EE=E2=FB=E9
+
+=F4=E8=EA=F1=E8=F0=EE=E2=E0=ED=ED=FB=E9 =E7=E0=E3=EE=EB=EE=E2=EE=EA, =EE=E1=
+=F9=E8=E9 =E4=EB=FF =E2=F1=E5=F5 =F2=F0=E5=F5 =F2=E8=EF=EE=E2 =EF=E0=EA=E5=
+=F2=EE=E2. =C2=F2=EE=F0=EE=E9
+
+=F7=E0=F1=F2=FC=FE =FF=E2=EB=FF=E5=F2=F1=FF =F1=EF=E5=F6=E8=F4=E8=F7=ED=E0=
+=FF =E4=EB=FF =E4=E0=ED=ED=EE=E3=EE =F2=E8=EF=E0 =EF=E0=EA=E5=F2=E0 =F7=E0=
+=F1=F2=FC =F1=20
+
+=F4=E8=EA=F1=E8=F0=EE=E2=E0=ED=ED=FB=EC =F4=EE=F0=EC=E0=F2=EE=EC. =D2=F0=E5=
+=F2=FC=FF =EB=EE=E3=E8=F7=E5=F1=EA=E0=FF =F7=E0=F1=F2=FC =F2=E0=EA=E6=E5 =
+=FF=E2=EB=FF=E5=F2=F1=FF=20
+
+=F1=EF=E5=F6=E8=F4=E8=F7=ED=EE=E9 =E4=EB=FF =F2=E8=EF=E0 =EF=E0=EA=E5=F2=E0=
+, =ED=EE =E8=EC=E5=E5=F2 =EF=E5=F0=E5=EC=E5=ED=ED=F3=FE =E4=EB=E8=ED=F3. =
+=CB=EE=E3=E8=F7=E5=F1=EA=E8=E9=20
+
+=F4=EE=F0=EC=E0=F2 =EF=E0=EA=E5=F2=EE=E2 IS-IS =EF=F0=E5=E4=F1=F2=E0=E2=EB=
+=E5=ED =ED=E0 =D0=E8=F1. 28-3.
+
+</p><p></p><center>
+
+<table border=3D"1">
+
+<tbody><tr>
+
+<td align=3D"center" width=3D"150">Common header
+
+</td><td align=3D"center" width=3D"150">Packet-type-specific, fixed header
+
+</td><td align=3D"center" width=3D"150">Packet-type-specific, variable-leng=
+th header
+
+</td></tr>
+
+</tbody></table>
+
+<br><i>Figure 28-3</i>
+
+</center><p align=3D"justify">
+
+=CA=E0=E6=E4=FB=E9 =E8=E7 =F2=F0=E5=F5 =F2=E8=EF=EE=E2 =EF=E0=EA=E5=F2=E0=
+ =E8=EC=E5=E5=F2 =EE=E1=F9=E8=E9 =E7=E0=E3=EE=EB=EE=E2=EE=EA, =EA=E0=EA =FD=
+=F2=EE =EF=EE=EA=E0=E7=E0=ED=EE
+
+=ED=E0 =D0=E8=F1. 28-4.
+
+</p><p></p><center>
+
+<img src=3D"http://citforum.ru/pictures/it/ito/28-4.gif">
+
+</center><p align=3D"justify">
+
+=CF=E5=F0=E2=FB=EC =EF=EE=EB=E5=EC =E2 =EE=E1=F9=E5=EC =E7=E0=E3=EE=EB=EE=
+=E2=EA=E5 IS-IS =FF=E2=EB=FF=E5=F2=F1=FF =E8=E4=E5=ED=F2=E8=F4=E8=EA=E0=F2=
+=EE=F0 =EF=F0=EE=F2=EE=EA=EE=EB=E0
+
+(<i>protocol identifier</i>), =EA=EE=F2=EE=F0=FB=E9 =E8=E4=E5=ED=F2=E8=F4=
+=E8=F6=E8=F0=F3=E5=F2 =EF=F0=EE=F2=EE=EA=EE=EB IS-IS.
+
+=DD=F2=EE =EF=EE=EB=E5 =F1=EE=E4=E5=F0=E6=E8=F2 =EA=EE=ED=F1=F2=E0=ED=F2=F3=
+ (131).
+
+</p><p align=3D"justify">
+
+=D1=EB=E5=E4=F3=FE=F9=E8=EC =EF=EE=EB=E5=EC =EE=E1=F9=E5=E3=EE =E7=E0=E3=EE=
+=EB=EE=E2=EA=E0 =FF=E2=EB=FF=E5=F2=F1=FF =EF=EE=EB=E5 =E4=EB=E8=ED=FB =E7=
+=E0=E3=EE=EB=EE=E2=EA=E0 (<i>header=20
+
+length</i>). =DD=F2=EE =EF=EE=EB=E5 =F1=EE=E4=E5=F0=E6=E8=F2 =F4=E8=EA=F1=
+=E8=F0=EE=E2=E0=ED=ED=F3=FE =E4=EB=E8=ED=F3 =E7=E0=E3=EE=EB=EE=E2=EA=E0. =
+=DD=F2=E0 =E4=EB=E8=ED=E0=20
+
+=E2=F1=E5=E3=E4=E0 =F0=E0=E2=ED=FF=E5=F2=F1=FF 8 =E1=E0=E9=F2=E0=EC, =ED=EE=
+ =EE=ED=E0 =E2=EA=EB=FE=F7=E5=ED=E0 =F2=E0=EA=E8=EC =EE=E1=F0=E0=E7=EE=EC,=
+ =F7=F2=EE=E1=FB =EF=E0=EA=E5=F2=FB=20
+
+IS-IS =ED=E5=E7=ED=E0=F7=E8=F2=E5=EB=FC=ED=EE =EE=F2=EB=E8=F7=E0=EB=E8=F1=
+=FC =EE=F2 =EF=E0=EA=E5=F2=EE=E2 CLNP.
+
+</p><p align=3D"justify">
+
+=C7=E0 =EF=EE=EB=E5=EC =E4=EB=E8=ED=FB =F1=EB=E5=E4=F3=E5=F2 =EF=EE=EB=E5=
+ =E2=E5=F0=F1=E8=E8 (<i>version</i>), =EA=EE=F2=EE=F0=EE=E5 =F0=E0=E2=ED=FF=
+=E5=F2=F1=FF =E5=E4=E8=ED=E8=F6=E5
+
+=E2 =F2=E5=EA=F3=F9=E5=E9 =F1=EF=E5=F6=E8=F4=E8=EA=E0=F6=E8=E8 IS-IS.
+
+</p><p align=3D"justify">
+
+=C7=E0 =EF=EE=EB=E5=EC =E2=E5=F0=F1=E8=E8 =E8=E4=E5=F2 =EF=EE=EB=E5 =E4=EB=
+=E8=ED=FB ID, =EA=EE=F2=EE=F0=EE=E5 =EE=EF=F0=E5=E4=E5=EB=FF=E5=F2 =F0=E0=
+=E7=EC=E5=F0=FB =F7=E0=F1=F2=E8
+
+ID (=E8=E4=E5=ED=F2=E8=F4=E8=EA=E0=F2=EE=F0=E0) NSAP, =E5=F1=EB=E8 e=E3=EE=
+ =E7=ED=E0=F7=E5=ED=E8=E5 =EB=E5=E6=E8=F2 =E2 =EF=F0=E5=E4=E5=EB=E0=F5 =EE=
+=F2 1 =E4=EE
+
+8 (=E2=EA=EB=FE=F7=E8=F2=E5=EB=FC=ED=EE). =C5=F1=EB=E8 =EF=EE=EB=E5 =F1=EE=
+=E4=E5=F0=E6=E8=F2 =ED=F3=EB=FC, =F2=EE =F7=E0=F1=F2=FC ID =F0=E0=E2=ED=FF=
+=E5=F2=F1=FF 6
+
+=E1=E0=E9=F2=E0=EC. =C5=F1=EB=E8 =EF=EE=EB=E5 =F1=EE=E4=E5=F0=E6=E8=F2 255=
+ (=EE=E4=ED=E8 =E5=E4=E8=ED=E8=F6=FB), =F2=EE =F7=E0=F1=F2=FC ID =F0=E0=E2=
+=ED=E0 0=20
+
+=E1=E0=E9=F2=EE=E2.
+
+</p><p align=3D"justify">
+
+=D1=EB=E5=E4=F3=FE=F9=E8=EC =EF=EE=EB=E5=EC =FF=E2=EB=FF=E5=F2=F1=FF =EF=EE=
+=EB=E5 =F2=E8=EF=E0 =EF=E0=EA=E5=F2=E0 (<i>packet type</i>), =EA=EE=F2=EE=
+=F0=EE=E5
+
+=EE=EF=F0=E5=E4=E5=EB=FF=E5=F2 =F2=E8=EF =EF=E0=EA=E5=F2=E0 IS-IS (hello,=
+ LSP =E8=EB=E8 SNP).
+
+</p><p align=3D"justify">
+
+=C7=E0 =EF=EE=EB=E5=EC =F2=E8=EF=E0 =EF=E0=EA=E5=F2=E0 =EF=EE=E2=F2=EE=F0=
+=ED=EE =F1=EB=E5=E4=F3=E5=F2 =EF=EE=EB=E5 =E2=E5=F0=F1=E8=E8.
+
+</p><p align=3D"justify">
+
+=C7=E0 =E2=F2=EE=F0=FB=EC =EF=EE=EB=E5=EC =E2=E5=F0=F1=E8=E8 =E8=E4=E5=F2=
+ =EF=EE=EB=E5 =F0=E5=E7=E5=F0=E2=E0 (<i>reserved</i>), =EA=EE=F2=EE=F0=EE=
+=E5 =F0=E0=E2=ED=EE=20
+
+=ED=F3=EB=FE =E8 =EA=EE=F2=EE=F0=EE=E5 =E8=E3=ED=EE=F0=E8=F0=F3=E5=F2=F1=FF=
+ =EF=EE=EB=F3=F7=E0=F2=E5=EB=E5=EC.
+
+</p><p align=3D"justify">
+
+=CF=EE=F1=EB=E5=E4=ED=E8=EC =EF=EE=EB=E5=EC =EE=E1=F9=E5=E3=EE =E7=E0=E3=EE=
+=EB=EE=E2=EA=E0 =FF=E2=EB=FF=E5=F2=F1=FF =EF=EE=EB=E5 =EC=E0=EA=F1=E8=EC=F3=
+=EC=E0 =E0=E4=F0=E5=F1=EE=E2=20
+
+=EE=E1=EB=E0=F1=F2=E8. =DD=F2=EE =EF=EE=EB=E5 =EE=EF=F0=E5=E4=E5=EB=FF=E5=
+=F2 =F7=E8=F1=EB=EE =E0=E4=F0=E5=F1=EE=E2, =F0=E0=E7=F0=E5=F8e=ED=ED=FB=F5=
+ =E4=EB=FF =FD=F2=EE=E9=20
+
+=EE=E1=EB=E0=F1=F2=E8.
+
+</p><p align=3D"justify">
+
+=C7=E0 =EE=E1=F9=E8=EC =E7=E0=E3=EE=EB=EE=E2=EA=EE=EC =E8=E4=E5=F2 =E4=EE=
+=EF=EE=EB=ED=E8=F2=E5=EB=FC=ED=E0=FF =F4=E8=EA=F1=E8=F0=EE=E2=E0=ED=ED=E0=
+=FF =F7=E0=F1=F2=FC, =F0=E0=E7=ED=E0=FF=20
+
+=E4=EB=FF =EA=E0=E6=E4=EE=E3=EE =F2=E8=EF=E0 =EF=E0=EA=E5=F2=E0, =E7=E0 =EA=
+=EE=F2=EE=F0=EE=E9 =F1=EB=E5=E4=F3=E5=F2 =EF=E5=F0=E5=EC=E5=ED=ED=E0=FF =F7=
+=E0=F1=F2=FC.
+
+
+
+</p><h4>
+
+<a name=3D"28.5"> =C8=ED=F2=E5=E3=F0=E8=F0=EE=E2=E0=ED=ED=FB=E9 IS-IS</a>
+
+</h4><p align=3D"justify">
+
+=C8=ED=F2=E5=E3=F0=E8=F0=EE=E2=E0=ED=ED=FB=E9 IS-IS =FF=E2=EB=FF=E5=F2=F1=
+=FF =EE=E4=ED=EE=E9 =E8=E7 =E2=E5=F0=F1=E8=E9 IS-IS, =EA=EE=F2=EE=F0=E0=FF=
+=20
+
+=E8=F1=EF=EE=EB=FC=E7=F3=E5=F2 =EE=E4=E8=ED =E0=EB=E3=EE=F0=E8=F2=EC =EC=E0=
+=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 =E4=EB=FF =EF=EE=E4=E4=E5=F0=E6=EA=E8 =ED=
+=E5=F1=EA=EE=EB=FC=EA=E8=F5
+
+=EF=F0=EE=F2=EE=EA=EE=EB=EE=E2 =F1=E5=F2=E5=E2=EE=E3=EE =F3=F0=EE=E2=ED=FF,=
+ =E0 =ED=E5 =F2=EE=EB=FC=EA=EE =EE=E4=ED=EE=E3=EE =EF=F0=EE=F2=EE=EA=EE=EB=
+=E0 CLNP.=20
+
+=C8=ED=F2=E5=E3=F0=E8=F0=EE=E2=E0=ED=ED=FB=E9 IS-IS =E8=ED=EE=E3=E4=E0 =ED=
+=E0=E7=FB=E2=E0=FE=F2 =C4=E2=EE=E9=F1=F2=E2=E5=ED=ED=FB=EC IS-IS (<i>Dual=
+ IS-IS</i>),
+
+=EF=EE =E8=EC=E5=ED=E8 =EE=E4=ED=EE=E9 =E8=E7 =E2=E5=F0=F1=E8=E9, =EF=F0=E5=
+=E4=ED=E0=E7=ED=E0=F7=E5=ED=ED=FB=F5 =E4=EB=FF =F1=E5=F2=E5=E9 IP =E8 CLNP.
+
+</p><p align=3D"justify">
+
+=CF=E0=EA=E5=F2=FB IS-IS =E4=EE=EF=EE=EB=ED=E5=ED=FB =ED=E5=F1=EA=EE=EB=FC=
+=EA=E8=EC=E8 =EF=EE=EB=FF=EC=E8, =F7=F2=EE =EF=EE=E7=E2=EE=EB=FF=E5=F2 IS-I=
+S=20
+
+=EF=EE=E4=E4=E5=F0=E6=E8=E2=E0=F2=FC =E4=EE=EF=EE=EB=ED=E8=F2=E5=EB=FC=ED=
+=FB=E5 =F1=E5=F2=E5=E2=FB=E5 =F3=F0=EE=E2=ED=E8. =DD=F2=E8 =EF=EE=EB=FF =F1=
+=EE=EE=E1=F9=E0=FE=F2=20
+
+=F0=EE=F3=F2=E5=F0=E0=EC =F1=EB=E5=E4=F3=FE=F9=F3=FE =E8=ED=F4=EE=F0=EC=E0=
+=F6=E8=FE:
+
+</p><dl>
+
+<dd> =C4=EE=F1=FF=E3=E0=E5=EC=EE=F1=F2=FC =F1=E5=F2=E5=E2=FB=F5 =E0=E4=F0=
+=E5=F1=EE=E2 =E8=E7 =E4=F0=F3=E3=E8=F5 =EA=EE=EC=EF=EB=E5=EA=F2=EE=E2 =EF=
+=F0=EE=F2=EE=EA=EE=EB=EE=E2
+
+</dd><dd> =CA=E0=EA=E8=E5 =EF=F0=EE=F2=EE=EA=EE=EB=FB =EF=EE=E4=E4=E5=F0=E6=
+=E8=E2=E0=FE=F2=F1=FF =E8 =EA=E0=EA=E8=EC=E8 =F0=EE=F3=F2=E5=F0=E0=EC=E8
+
+</dd><dd> =C4=F0=F3=E3=F3=FE =E8=ED=F4=EE=F0=EC=E0=F6=E8=FE, =ED=E5=EE=E1=
+=F5=EE=E4=E8=EC=F3=FE =E4=EB=FF =EA=E0=EA=EE=E3=EE-=ED=E8=E1=F3=E4=FC =EA=
+=EE=ED=EA=F0=E5=F2=ED=EE=E3=EE =EA=EE=EC=EF=EB=E5=EA=F2=E0 =EF=F0=EE=F2=EE=
+=EA=EE=EB=EE=E2
+
+</dd></dl><p align=3D"justify">
+
+=C8=ED=F2=E5=E3=F0=E8=F0=EE=E2=E0=ED=ED=FB=E9 IS-IS =EF=F0=E5=E4=F1=F2=E0=
+=E2=EB=FF=E5=F2 =EE=E4=E8=ED =E8=E7 =E4=E2=F3=F5 =F1=EF=EE=F1=EE=E1=EE=E2=
+ =EF=EE=E4=E4=E5=F0=E6=EA=E8
+
+=E2 =F0=EE=F3=F2=E5=F0=E5 =ED=E5=F1=EA=EE=EB=FC=EA=E8=F5 =EF=F0=EE=F2=EE=EA=
+=EE=EB=EE=E2 =F1=E5=F2=E5=E2=EE=E3=EE =F3=F0=EE=E2=ED=FF; =E4=F0=F3=E3=E8=
+=EC =F1=EF=EE=F1=EE=E1=EE=EC
+
+=FF=E2=EB=FF=E5=F2=F1=FF =EF=F0=E8=EC=E5=ED=E5=ED=E8=E5 =EC=E5=F2=EE=E4=E0=
+ "=EA=EE=F0=E0=E1=EB=E8 =ED=EE=F7=FC=FE" (<i>ships in the night</i>). =DD=
+=F2=EE=F2
+
+=EC=E5=F2=EE=E4 =EF=F0=EE=EF=E0=E3=E0=ED=E4=E8=F0=F3=E5=F2 =E8=F1=EF=EE=EB=
+=FC=E7=EE=E2=E0=ED=E8=E5 =F1=EE=E2=E5=F0=F8=E5=ED=ED=EE =EE=F2=E4=E5=EB=FC=
+=ED=EE=E3=EE =E8 =EE=F2=EB=E8=F7=ED=EE=E3=EE
+
+=EE=F2 =E4=F0=F3=E3=E8=F5 =EF=F0=EE=F2=EE=EA=EE=EB=E0 =EC=E0=F0=F8=F0=F3=F2=
+=E8=E7=E0=F6=E8=E8 =E4=EB=FF =EA=E0=E6=E4=EE=E3=EE =F1=E5=F2=E5=E2=EE=E3=EE=
+ =EF=F0=EE=F2=EE=EA=EE=EB=E0 =F1=E5=F2=E8=20
+
+=F2=E0=EA, =F7=F2=EE=E1=FB =ED=E5=F1=EA=EE=EB=FC=EA=EE =EF=F0=EE=F2=EE=EA=
+=EE=EB=EE=E2 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 =F4=E0=EA=F2=E8=F7=E5=
+=F1=EA=E8 =F1=F3=F9=E5=F1=F2=E2=EE=E2=E0=EB=E8=20
+
+=ED=E5=E7=E0=E2=E8=F1=E8=EC=EE =E4=F0=F3=E3 =EE=F2 =E4=F0=F3=E3=E0 (=F1 =F0=
+=E0=E7=ED=FB=EC=E8 =F2=E8=EF=E0=EC=E8 =EC=E0=F0=F8=F0=F3=F2=ED=EE=E9 =E8=ED=
+=F4=EE=F0=EC=E0=F6=E8=E8,=20
+
+=EF=F0=EE=F5=EE=E4=FF=F9=E5=E9 =EF=EE=E4=EE=E1=ED=EE =EA=EE=F0=E0=E1=EB=FF=
+=EC =ED=EE=F7=FC=FE). =C2=EE=E7=EC=EE=E6=ED=EE=F1=F2=FC =ED=E0=EF=F0=E0=E2=
+=EB=FF=F2=FC =EF=EE=20
+
+=EE=EF=F0=E5=E4=E5=EB=E5=ED=ED=FB=EC =EC=E0=F0=F8=F0=F3=F2=E0=EC =ED=E5=F1=
+=EA=EE=EB=FC=EA=EE =EF=F0=EE=F2=EE=EA=EE=EB=EE=E2 =F1=E5=F2=E5=E2=EE=E3=EE=
+ =F3=F0=EE=E2=ED=FF =F1 =EF=EE=EC=EE=F9=FC=FE=20
+
+=F2=E0=E1=EB=E8=F6, =F0=E0=F1=F1=F7=E8=F2=E0=ED=ED=FB=F5 =EE=E4=ED=E8=EC =
+=EF=F0=EE=F2=EE=EA=EE=EB=EE=EC =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8, =FD=
+=EA=EE=ED=EE=EC=E8=F2 =F0=E5=F1=F3=F0=F1=FB=20
+
+=F0=EE=F3=F2=E5=F0=EE=E2.
+
+
+
+</p><h4>
+
+<a name=3D"28.6"> =CF=F0=EE=F2=EE=EA=EE=EB =EC=E5=E6=E4=EE=EC=E5=ED=ED=EE=
+=E9 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 (IDRP)</a>
+
+</h4><p align=3D"justify">
+
+
+
+IDRP =FF=E2=EB=FF=E5=F2=F1=FF =EF=F0=EE=F2=EE=EA=EE=EB=EE=EC OSI, =EF=F0=E5=
+=E4=ED=E0=E7=ED=E0=F7=E5=ED=ED=FB=EC =E4=EB=FF =EF=E5=F0=E5=EC=E5=F9=E5=ED=
+=E8=FF=20
+
+=E8=ED=F4=EE=F0=EC=E0=F6=E8=E8 =EC=E5=E6=E4=F3 =E4=EE=EC=E5=ED=E0=EC=E8 =EC=
+=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8. =CE=ED =EF=F0=E5=E4=ED=E0=E7=ED=E0=F7=
+=E5=ED =E4=EB=FF =E1=E5=F1=F8=EE=E2=ED=EE=E9=20
+
+=F0=E0=E1=EE=F2=FB =F1 CLNP, ES-IS =E8 IS-IS. IDRP =E1=E0=E7=E8=F0=F3=E5=F2=
+=F1=FF =ED=E0 =CF=F0=EE=F2=EE=EA=EE=EB=E5 =E3=F0=E0=ED=E8=F7=ED=FB=F5=20
+
+=F0=EE=F3=F2=E5=F0=EE=E2 (BGP), =EA=EE=F2=EE=F0=FB=E9 =FF=E2=EB=FF=E5=F2=F1=
+=FF =EF=F0=EE=F2=EE=EA=EE=EB=EE=EC =EC=E5=E6=E4=EE=EC=E5=ED=ED=EE=E9=20
+
+=EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8, =E2=EF=E5=F0=E2=FB=E5 =EF=EE=FF=E2=
+=E8=E2=F8=E5=EC=F1=FF =E2 =F1=EE=EE=E1=F9=E5=F1=F2=E2=E5 IP
+
+(=F1=EC=EE=F2=F0=E8 =C3=EB=E0=E2=F3 27 "<a href=3D"http://citforum.ru/nets/=
+ito/27.shtml">BGP</a>").
+
+</p><p align=3D"justify">
+
+IDRP =E2=E2=EE=E4=E8=F2 =ED=E5=F1=EA=EE=EB=FC=EA=EE =ED=EE=E2=FB=F5 =F2=E5=
+=F0=EC=E8=ED=EE=E2, =E2 =F2=EE=EC =F7=E8=F1=EB=E5 =F1=EB=E5=E4=F3=FE=F9=E8=
+=E5:
+
+</p><dl>
+
+<dt> <i>Border intermediate system (BIS)</i>
+
+</dt><dd>	=C3=F0=E0=ED=E8=F7=ED=E0=FF =EF=F0=EE=EC=E5=E6=F3=F2=EE=F7=ED=E0=
+=FF =F1=E8=F1=F2=E5=EC=E0.
+
+	=DD=F2=EE IS, =F3=F7=E0=F1=F2=E2=F3=FE=F9=E0=FF =E2 =EC=E5=E6=E4=EE=EC=E5=
+=ED=ED=EE=E9 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8. =C4=EB=FF =FD=F2=EE=
+=E3=EE =EE=ED=E0
+
+	=E8=F1=EF=EE=EB=FC=E7=F3=E5=F2 IDRP.
+
+</dd><dt> <i>Routing domain (RD)</i>
+
+</dt><dd>	=C4=EE=EC=E5=ED =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8. =DD=F2=
+=EE =E3=F0=F3=EF=EF=E0 ES =E8 IS,
+
+	=F0=E0=E1=EE=F2=E0=FE=F9=E8=F5 =F1=EE=E3=EB=E0=F1=ED=EE =EE=E1=F9=E8=EC =
+=E0=E4=EC=E8=ED=E8=F1=F2=F0=E0=F2=E8=E2=ED=FB=EC =EF=F0=E0=E2=E8=EB=E0=EC,=
+ =E2=EA=EB=FE=F7=E0=FE=F9=E8=EC
+
+	=EA=EE=EB=EB=E5=EA=F2=E8=E2=ED=EE=E5 =EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=E5 =EE=
+=E1=F9=E8=EC =EC=E0=F0=F8=F0=F3=F2=ED=FB=EC =EF=EB=E0=ED=EE=EC.
+
+</dd><dt> <i>Routing domain identifier (RDI)</i>
+
+</dt><dd>	=C8=E4=E5=ED=F2=E8=F4=E8=EA=E0=F2=EE=F0 =E4=EE=EC=E5=ED=E0 =EC=E0=
+=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8.
+
+	=D3=ED=E8=EA=E0=EB=FC=ED=FB=E9 =E8=E4=E5=ED=F2=E8=F4=E8=EA=E0=F2=EE=F0 =E4=
+=EE=EC=E5=ED=E0 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 (RD).
+
+</dd><dt> <i>Routing information base (RIB)</i>
+
+</dt><dd>	=C8=ED=F4=EE=F0=EC=E0=F6=E8=EE=ED=ED=E0=FF =E1=E0=E7=E0 =EC=E0=F0=
+=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8.
+
+	=DD=F2=EE =E1=E0=E7=E0 =E4=E0=ED=ED=FB=F5 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=
+=F6=E8=E8, =E8=F1=EF=EE=EB=FC=E7=F3=E5=EC=E0=FF IDRP. =CA=E0=E6=E4=E0=FF =
+ BIS =F1=F2=F0=EE=E8=F2
+
+	=F1=E2=EE=FE RIB =E8=E7 =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8, =EF=EE=EB=F3=F7=E5=
+=ED=ED=EE=E9 =EE=F2 =F1=E8=F1=F2=E5=EC =E4=E0=ED=ED=EE=E3=EE RD =E8 =E8=E7=
+ =E4=F0=F3=E3=E8=F5
+
+	BIS. =CB=FE=E1=E0=FF RIB =F1=EE=E4=E5=F0=E6=E8=F2 =ED=E0=E1=EE=F0 =EC=E0=
+=F0=F8=F0=F3=F2=EE=E2, =E2=FB=E1=F0=E0=ED=ED=FB=F5 =E4=EB=FF =E8=F1=EF=EE=
+=EB=FC=E7=EE=E2=E0=ED=E8=FF
+
+	=EA=E0=EA=EE=E9-=ED=E8=E1=F3=E4=FC =EA=EE=ED=EA=F0=E5=F2=ED=EE=E9 BIS.
+
+</dd><dt> <i>Confederation</i>
+
+</dt><dd>	=CA=EE=ED=F4=E5=E4=E5=F0=E0=F6=E8=FF. =DD=F2=EE =E3=F0=F3=EF=EF=
+=E0 =E4=EE=EC=E5=ED=EE=E2 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 (RD).
+
+	RD, =ED=E5 =EF=F0=E8=ED=E0=E4=EB=E5=E6=E0=F9=E8=E5 =EA =E4=E0=ED=ED=EE=E9=
+ =EA=EE=ED=F4=E5=E4=E5=F0=E0=F6=E8=E8, =E2=EE=F1=EF=F0=E8=ED=E8=EC=E0=FE=F2=
+ =E5=E5 =EA=E0=EA =EE=E4=E8=ED
+
+	RD. =D2=EE=EF=EE=EB=EE=E3=E8=FF =EA=EE=ED=F4=E5=E4=E5=F0=E0=F6=E8=E8 =ED=
+=E5=E2=E8=E4=E8=EC=E0 =E4=EB=FF RD, =ED=E5 =EF=F0=E8=ED=E0=E4=EB=E5=F9=E0=
+=F9=E8=F5 =EA =ED=E5=E9.
+
+	=CA=EE=ED=F4=E5=E4=E5=F0=E0=F6=E8=E8 =EF=EE=EC=EE=E3=E0=FE=F2 =F1=EE=EA=F0=
+=E0=F2=E8=F2=FC =F1=E5=F2=E5=E2=EE=E9 =F2=F0=E0=F4=E8=EA, =E2=FB=F1=F2=F3=
+=EF=E0=FF =E2
+
+	=EE=E1'=E5=E4=E8=ED=E5=ED=ED=EE=E9
+
+	=F1=E5=F2=E8 =E2 =EA=E0=F7=E5=F1=F2=E2=E5 =ED=E5=EF=F0=E5=EE=E4=EE=EB=E8=
+=EC=EE=E9 =EF=F0=E5=E3=F0=E0=E4=FB; =EE=ED=E8 =EC=EE=E3=F3=F2 =E1=FB=F2=FC=
+ =E2=EB=EE=E6=E5=ED=FB =EE=E4=ED=E0 =E2=20
+
+	=E4=F0=F3=E3=F3=FE.
+
+</dd></dl><p align=3D"justify">
+
+=CC=E0=F0=F8=F0=F3=F2 IDRP =EF=F0=E5=E4=F1=F2=E0=E2=EB=FF=E5=F2 =F1=EE=E1=
+=EE=E9 =EF=EE=F1=EB=E5=E4=EE=E2=E0=F2=E5=EB=FC=ED=EE=F1=F2=FC RDI. =CD=E5=
+=EA=EE=F2=EE=F0=FB=E5 =E8=E7=20
+
+=FD=F2=E8=F5 RDI =EC=EE=E3=F3=F2 =E1=FB=F2=FC =EA=EE=ED=F4=E5=E4=E5=F0=E0=
+=F6=E8=FF=EC=E8. =CF=F0=E8 =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=E8 =EA=E0=E6=
+=E4=EE=E9 BIS =EE=ED=E0=20
+
+=E7=ED=E0=E5=F2 =EE RD =E8 =EA=EE=ED=F4=E5=E4=E5=F0=E0=F6=E8=FF=F5, =EA =EA=
+=EE=F2=EE=F0=FB=EC =EE=ED=E0 =EF=F0=E8=ED=E0=E4=EB=E5=E6=E8=F2, =E0 =F2=E0=
+=EA=E6=E5 =F3=E7=ED=E0=E5=F2
+
+=EE =E4=F0=F3=E3=E8=F5 BIS, RD =E8 =EA=EE=ED=F4=E5=E4=E5=F0=E0=F6=E8=FF=F5=
+ =E8=E7 =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8, =EA=EE=F2=EE=F0=EE=E9 =EE=ED=E0=20
+
+=EE=E1=EC=E5=ED=E8=E2=E0=E5=F2=F1=FF =F1 =EA=E0=E6=E4=FB=EC =F1=EE=F1=E5=E4=
+=EE=EC. =CA=E0=EA =E8 =E4=EB=FF =EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 =F1=
+ =E2=E5=EA=F2=EE=F0=EE=EC
+
+=F0=E0=F1=F1=F2=EE=FF=ED=E8=FF, =EC=E0=F0=F8=F0=F3=F2=FB =E2 =EA=E0=EA=EE=
+=E9-=ED=E8=E1=F3=E4=FC =EA=EE=ED=EA=F0=E5=F2=ED=FB=E9 =EF=F3=ED=EA=F2 =ED=
+=E0=E7=ED=E0=F7=E5=ED=E8=FF=20
+
+=ED=E0=EA=E0=EF=EB=E8=E2=E0=FE=F2=F1=FF =E2=ED=E5 =E4=E0=ED=ED=EE=E3=EE =EF=
+=F3=ED=EA=F2=E0 =ED=E0=E7=ED=E0=F7=E5=ED=E8=FF. =D2=EE=EB=FC=EA=EE =EC=E0=
+=F0=F8=F0=F3=F2=FB, =EA=EE=F2=EE=F0=FB=E5
+
+=F3=E4=EE=E2=EB=E5=F2=E2=EE=F0=FF=FE=F2 =F2=F0=E5=E1=EE=E2=E0=ED=E8=FF=EC=
+ =EC=E5=F1=F2=ED=EE=E9 =EF=EE=EB=E8=F2=E8=EA=E8 =EA=E0=EA=EE=E9-=ED=E8=E1=
+=F3=E4=FC BIS =E8 =E1=FB=EB=E8=20
+
+=E2=FB=E1=F0=E0=ED=FB =E4=EB=FF =E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=FF, =
+=E1=F3=E4=F3=F2 =EF=E5=F0=E5=E4=E0=ED=FB =E2 =E4=F0=F3=E3=E8=E5 BIS. =CF=E5=
+=F0=E5=F1=F7=E5=F2=20
+
+=EC=E0=F0=F8=F0=F3=F2=EE=E2 =ED=EE=F1=E8=F2 =F7=E0=F1=F2=E8=F7=ED=FB=E9 =F5=
+=E0=F0=E0=EA=F2=E5=F0 =E8 =E8=EC=E5=E5=F2 =EC=E5=F1=F2=EE =EF=F0=E8 =ED=E0=
+=EB=E8=F7=E8=E8 =EE=E4=ED=EE=E3=EE =E8=F5
+
+=F1=EB=E5=E4=F3=FE=F9=E8=F5 =F2=F0=E5=F5 =F1=EE=E1=FB=F2=E8=E9: =EF=EE=EB=
+=F3=F7=E5=ED=E0 =E8=ED=EA=F0=E5=EC=E5=ED=F2=ED=E0=FF =EA=EE=F0=F0=E5=EA=F2=
+=E8=F0=EE=E2=EA=E0=20
+
+=EC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=E8 =F1 =ED=EE=E2=FB=EC=E8 =EC=E0=F0=F8=
+=F0=F3=F2=E0=EC=E8, =EE=F2=EA=E0=E7=FB=E2=E0=E5=F2 =EA=E0=EA=E0=FF-=ED=E8=
+=E1=F3=E4=FC =F1=EE=F1=E5=E4=ED=FF=FF
+
+BIS =E8=EB=E8 =EF=EE=FF=E2=EB=FF=E5=F2=F1=FF =ED=EE=E2=E0=FF =F1=EE=F1=E5=
+=E4=ED=FF=FF BIS.
+
+</p><p align=3D"justify">
+
+=C2 =F7=E8=F1=EB=EE =F5=E0=F0=E0=EA=F2=E5=F0=E8=F1=F2=E8=EA IDRP =E2=F5=EE=
+=E4=FF=F2 =F1=EB=E5=E4=F3=FE=F9=E8=E5:
+
+</p><dl>
+
+<dd>  =CF=EE=E4=E4=E5=F0=E6=EA=E0 CLNP QOS
+
+</dd><dd> =D3=F1=F2=F0=E0=ED=E5=ED=E8=E5 =EF=E5=F2=E5=EB=FC =EF=F3=F2=E5=EC=
+ =EE=F1=EB=E5=E6=E8=E2=E0=ED=E8=FF =E2=F1=E5=F5 RD, =EF=E5=F0=E5=F1=E5=EA=
+=E0=E5=EC=FB=F5 =F0=EE=F3=F2=E5=F0=EE=EC
+
+</dd><dd> =D1=EE=EA=F0=E0=F9=E5=ED=E8=E5 =EE=E1'=E5=EC=E0 =EC=E0=F0=F8=F0=
+=F3=F2=ED=EE=E9 =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8 =E8 =E5=E5 =EE=E1=F0=E0=E1=
+=EE=F2=EA=E8 =EF=F3=F2=E5=EC
+
+	=E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=FF =EA=EE=ED=F4=E5=E4=E5=F0=E0=F6=E8=
+=E9, =EA=EE=EC=EF=F0=E5=F1=F1=E8=E8 =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8 =EF=F3=
+=F2=E5=E9 RD =E8 =E4=F0=F3=E3=E8=F5
+
+	=F1=F0=E5=E4=F1=F2=E2
+
+</dd><dd> =CE=E1=E5=F1=EF=E5=F7=E5=ED=E8=E5 =ED=E0=E4=E5=E6=ED=EE=F1=F2=E8=
+ =EF=F3=F2=E5=EC =E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=FF =E2=F1=F2=F0=EE=E5=
+=ED=ED=FB=F5 =ED=E0=E4=E5=E6=ED=FB=F5
+
+	=F1=F0=E5=E4=F1=F2=E2 =F2=F0=E0=ED=F1=EF=EE=F0=F2=E8=F0=EE=E2=EA=E8
+
+</dd><dd> =CE=E1=E5=F1=EF=E5=F7=E5=ED=E8=E5 =E7=E0=F9=E8=F2=FB =E4=E0=ED=ED=
+=FB=F5 =EF=F3=F2=E5=EC =E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=FF =EA=F0=E8=EF=
+=F2=EE=E3=F0=E0=F4=E8=F7=E5=F1=EA=EE=E9
+
+	=F1=E8=E3=ED=E0=F2=F3=F0=FB =E4=EB=FF =EA=E0=E6=E4=EE=E3=EE =EF=E0=EA=E5=
+=F2=E0
+
+</dd><dd> =CD=E0=EB=E8=F7=E8=E5 =F3=E7=EB=EE=E2 =EE=E1=F1=EB=F3=E6=E8=E2=E0=
+=ED=E8=FF =EC=E0=F0=F8=F0=F3=F2=E0
+
+</dd><dd> =D0=E5=E3=E5=ED=E5=F0=E8=F0=F3=FE=F9=E8=E5 =EF=E0=EA=E5=F2=FB RIB
+
+</dd></dl>
+
+
+
+<p></p><center><font size=3D"-1">
+
+[<a href=3D"http://citforum.ru/nets/ito/27.shtml">=CD=E0=E7=E0=E4</a>]
+
+[<a href=3D"http://citforum.ru/nets/ito/index.shtml">=D1=EE=E4=E5=F0=E6=E0=
+=ED=E8=E5</a>]
+
+[<a href=3D"http://citforum.ru/nets/ito/29.shtml">=C2=EF=E5=F0=E5=E4</a>]
+
+</font></center>
+
+<p>
+
+</p></div>
+
+
+<center><table><tbody><tr><td><a href=3D"http://vip.gfi.ru/?source=3Dbanner=
+:cit_vip" rel=3D"nofollow" target=3D"_blank"><img src=3D"http://citforum.ru=
+/a/gfi_110x52.png" border=3D"0" height=3D"52" width=3D"110"></a></td><td><a=
+ href=3D"http://vip.gfi.ru/?source=3Dbanner:cit_vip" rel=3D"nofollow" targe=
+t=3D"_blank" style=3D"font-size:15px;font-family:arial,sans-serif;font-weig=
+ht:bold;text-decoration:none;color:black"><nobr>=C7=E0=F0=E5=E3=E8=F1=F2=F0=
+=E8=F0=F3=E9=F2=E5 =ED=EE=EC=E5=F0 007-101-303</nobr><br><nobr>=ED=E0 =F1=
+=E0=E9=F2=E5 VIP.GFI.RU =E8 =EF=EE=EB=F3=F7=E8=F2=E5</nobr><br><nobr>=ED=E0=
+=F8=E8 =EF=F0=EE=E4=F3=EA=F2=FB <span style=3D"font-size:20px;color:red">=
+=C1=C5=D1=CF=CB=C0=D2=CD=CE</span></nobr></a></td></tr></tbody></table>
+</center>
+
+<center>
+
+
+</center>
+
+</td>
+
+
+<td>
+
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"right" border=3D"0" wid=
+th=3D"100%"><tbody><tr>
+<td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif" bo=
+rder=3D"0" height=3D"1" width=3D"1"></td>
+<td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.gif" bo=
+rder=3D"0" height=3D"1" width=3D"2"></td>
+<td>
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+<tbody><tr><td align=3D"center"><!--  AdRiver code START. Type:240x400 Site=
+: citforum PZ: 0 BN: 1 -->
+<script language=3D"javascript" type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><iframe class=3D" ftxtidqbzxjklmgttmqo" src=3D"urn:snapshot-F01=
+591B0:http://ad.adriver.ru/cgi-bin/erle.cgi?sid=3D137295&amp;bn=3D1&amp;tar=
+get=3Dblank&amp;bt=3D22&amp;pz=3D0&amp;rnd=3D83593417&amp;tail256=3Dhttp%3A=
+//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26=
+cd%3D9%26cad%3Drja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252F=
+citforum.ru%252Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26u=
+sg%3DAFQjCNGTt71C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA" vs=
+pace=3D"0" hspace=3D"0" marginwidth=3D"0" marginheight=3D"0" scrolling=3D"n=
+o" frameborder=3D"0" height=3D"400" width=3D"240"></iframe>
+<noscript>
+<a href=3D"http://ad.adriver.ru/cgi-bin/click.cgi?sid=3D137295&bn=3D1&bt=3D=
+22&pz=3D0&rnd=3D1132854728" target=3D_blank>
+<img src=3D"http://ad.adriver.ru/cgi-bin/rle.cgi?sid=3D137295&bn=3D1&bt=3D2=
+2&pz=3D0&rnd=3D1132854728" alt=3D"-AdRiver-" border=3D0 width=3D240 height=
+=3D400></a>
+</noscript>
+
+<!--  AdRiver code END  --></td></tr>
+
+
+
+<tr><td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"1" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"3" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#ffffff">
+<font size=3D"2">
+<p><b>=CD=EE=E2=EE=F1=F2=E8 =EC=E8=F0=E0 IT:</b>
+</p><ul class=3D"column">
+<!--<b><a target=3D_blank href=3Dhttp://citcity.ru/20070/>4&#x2013;5 =E4=E5=
+=EA=E0=E1=F0=FF =EF=F0=EE=E9=E4=B8=F2 &#xab;=CF=EB=E0=F2=F4=EE=F0=EC=E0 200=
+9&#xbb;</a></b>
+<hr>-->
+
+<li>24.10 - <a href=3D"http://citforum.ru/news/32872/">=CD=E0=F7=E0=EB=EE=
+=F1=FC =E0=EB=FC=F4=E0-=F2=E5=F1=F2=E8=F0=EE=E2=E0=ED=E8=E5 Fedora 21 =E4=
+=EB=FF =E0=F0=F5=E8=F2=E5=EA=F2=F3=F0=FB Aarch64</a></li><li>24.10 - <a hre=
+f=3D"http://citforum.ru/news/32871/">Microsoft =E8 Dell =EF=F0=E5=E4=F1=F2=
+=E0=E2=E8=EB=E8 =F7=E0=F1=F2=ED=EE=E5 =EE=E1=EB=E0=EA=EE =ED=E0 =E1=E0=E7=
+=E5 Azure</a></li><li>24.10 - <a href=3D"http://citforum.ru/news/32870/">=
+=AB=D3=EC=ED=FB=E5=BB =F7=E0=F1=FB Microsoft =EF=EE=EB=F3=F7=E8=EB=E8 =EE=
+=E4=EE=E1=F0=E5=ED=E8=E5 FCC</a></li><li>24.10 - <a href=3D"http://citforum=
+.ru/news/32869/">=C2=FB=EF=F3=F1=EA =EF=F0=EE=F6=E5=F1=F1=EE=F0=EE=E2 Intel=
+ Skylake-S =EC=EE=E6=E5=F2 =F1=EE=E7=E4=E0=F2=FC =F5=E0=EE=F1 =ED=E0 =F0=FB=
+=ED=EA=E5 =EC=E0=F2=E5=F0=E8=ED=F1=EA=E8=F5 =EF=EB=E0=F2</a></li><li>24.10=
+ - <a href=3D"http://citforum.ru/news/32868/">ICANN =EE=E6=E8=E4=E0=E5=F2=
+ 15 =EC=EB=ED =ED=EE=E2=FB=F5 =E4=EE=EC=E5=ED=EE=E2 =E7=E0 =E3=EE=E4</a></l=
+i><li>24.10 - <a href=3D"http://citforum.ru/news/32867/">Samsung =ED=E0=F7=
+=E8=ED=E0=E5=F2 =F1=E5=F0=E8=E9=ED=EE=E5 =EF=F0=EE=E8=E7=E2=EE=E4=F1=F2=E2=
+=EE 8-=E3=E8=E3=E0=E1=E8=F2=ED=EE=E9 =EF=E0=EC=FF=F2=E8 DDR4 =ED=E0 =EE=F1=
+=ED=EE=E2=E5 =F2=E5=F5=EF=F0=EE=F6=E5=F1=F1=E0 20 =ED=EC</a></li><li>24.10=
+ - <a href=3D"http://citforum.ru/news/32866/">=CD=E0 =E2=F1=E5=F5 =F0=EE=F1=
+=F1=E8=E9=F1=EA=E8=F5 =E4=E5=F2=E5=E9 =F1=EE=E7=E4=E0=E4=F3=F2 "=FD=EB=E5=
+=EA=F2=F0=EE=ED=ED=FB=E5 =EF=EE=F0=F2=F4=EE=EB=E8=EE"</a></li><li>23.10 -=
+ <a href=3D"http://citforum.ru/news/32865/">Google =EF=EE=E4=F2=E2=E5=F0=E4=
+=E8=EB=E0 =E7=E0=EF=F3=F1=EA OTA-=EE=E1=ED=EE=E2=EB=E5=ED=E8=FF =E4=EE Andr=
+oid 5.0 =F2=F0=E5=F2=FC=E5=E3=EE =ED=EE=FF=E1=F0=FF</a></li><li>23.10 - <a=
+ href=3D"http://citforum.ru/news/32864/">=D1=EE=E2=E5=F2 =F4=E5=E4=E5=F0=E0=
+=F6=E8=E8: =E4=EE=F1=F2=F3=EF =E2 =C8=ED=F2=E5=F0=ED=E5=F2 =E2 =D0=EE=F1=F1=
+=E8=E8 =EE=F1=F2=E0=ED=E5=F2=F1=FF =F1=E2=EE=E1=EE=E4=ED=FB=EC</a></li><li>=
+23.10 - <a href=3D"http://citforum.ru/news/32863/">Google =EF=EE=E4=E4=E5=
+=F0=E6=E0=EB=E0 =E7=E0=E3=E0=E4=EE=F7=ED=EE=E3=EE =F0=E0=E7=F0=E0=E1=EE=F2=
+=F7=E8=EA=E0 3D-=F2=E5=F5=ED=EE=EB=EE=E3=E8=E9 Magic Leap</a></li><li>23.10=
+ - <a href=3D"http://citforum.ru/news/32862/">=CD=EE=E2=E0=FF OS X =F1=EB=
+=E5=E4=E8=F2 =E7=E0 =EF=EE=EB=FC=E7=EE=E2=E0=F2=E5=EB=FF=EC=E8</a></li><li>=
+23.10 - <a href=3D"http://citforum.ru/news/32861/">Google =F1=EE=E7=E4=E0=
+=E5=F2 =F0=E5=E2=EE=EB=FE=F6=E8=EE=ED=ED=FB=E9 =EF=F0=EE=E4=F3=EA=F2 =ED=E0=
+ =EE=F1=ED=EE=E2=E5 GMail</a></li><li>23.10 - <a href=3D"http://citforum.ru=
+/news/32860/">"=D0=EE=F1=F2=E5=F5" =E8 "=D0=EE=F1=F2=E5=EB=E5=EA=EE=EC" =EE=
+=E1=FA=E5=E4=E8=ED=FF=FE=F2 =F1=E2=EE=E8 =C8=D2-=EA=EE=EC=EF=E0=ED=E8=E8</a=
+></li><li>22.10 - <a href=3D"http://citforum.ru/news/32859/">=D0=E0=E7=F0=
+=E0=E1=EE=F2=F7=E8=EA=E8 GNOME =EF=EE=E4=E3=EE=F2=EE=E2=E8=EB=E8 =EF=EE=E6=
+=E5=EB=E0=ED=E8=FF =EF=EE =F3=EB=F3=F7=F8=E5=ED=E8=FE =FF=E4=F0=E0 Linux</a=
+></li><li>22.10 - <a href=3D"http://citforum.ru/news/32857/">=C2=FB=F8=EB=
+=EE =EE=E1=ED=EE=E2=EB=E5=ED=E8=E5 iOS 8.1 =F1 =EF=EE=E4=E4=E5=F0=E6=EA=EE=
+=E9 Apple Pay</a></li><li>22.10 - <a href=3D"http://citforum.ru/news/32856/=
+">=CD=E0=F6=E8=EE=ED=E0=EB=FC=ED=F3=FE =F1=E8=F1=F2=E5=EC=F3 =EF=EB=E0=F2=
+=E5=E6=ED=FB=F5 =EA=E0=F0=F2 =F1=EE=E7=E4=E0=E4=F3=F2 =ED=E0 =E1=E0=E7=E5=
+ =F2=E5=F5=ED=EE=EB=EE=E3=E8=E8 OpenWay</a></li><li>22.10 - <a href=3D"http=
+://citforum.ru/news/32855/">Apple =F1=EE=EE=E1=F9=E8=EB=E0 =EE =F0=E5=EA=EE=
+=F0=E4=ED=EE=E9 =E2=FB=F0=F3=F7=EA=E5 =E8 =EE=F7=E5=F0=E5=E4=ED=EE=EC =EF=
+=E0=E4=E5=ED=E8=E8 =EF=F0=EE=E4=E0=E6 iPad</a></li><li>22.10 - <a href=3D"h=
+ttp://citforum.ru/news/32854/">=D0=E5=EA=EE=F0=E4 ZTE: 400 =C3=E1=E8=F2/=F1=
+ =ED=E0 =F0=E0=F1=F1=F2=EE=FF=ED=E8=E5 =F1=E2=FB=F8=E5 3 =F2=FB=F1. =EA=EC<=
+/a></li><li>22.10 - <a href=3D"http://citforum.ru/news/32853/">=CA=E2=E0=F0=
+=F2=E0=EB=FC=ED=E0=FF =EF=F0=E8=E1=FB=EB=FC IBM =F1=EE=EA=F0=E0=F2=E8=EB=E0=
+=F1=FC =E2 300 =F0=E0=E7</a></li><li>22.10 - <a href=3D"http://citforum.ru/=
+news/32852/">Microsoft Lumia =E7=E0=EC=E5=ED=E8=F2 =E1=F0=E5=ED=E4 Nokia =
+=ED=E0 =F1=EC=E0=F0=F2=F4=EE=ED=E0=F5</a>
+
+</li></ul>
+</font><p><font size=3D"2"><a target=3D"_blank" href=3D"http://citforum.ru/=
+news/"><b>=C0=F0=F5=E8=E2 =ED=EE=E2=EE=F1=F2=E5=E9</b></a>
+</font>
+</p><p align=3D"right"><a href=3D"http://citforum.ru/news/rss/news.xml"><im=
+g src=3D"http://citforum.ru/pictures/xml_rss.gif" border=3D"0" height=3D"14=
+" width=3D"36"></a>
+</p></td></tr>
+
+
+<tr><td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"1" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"3" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"1" width=3D"1"></td></tr>
+<tr><td style=3D"padding-left: 5px; min-width: 240px"><p><b>=CF=EE=F1=EB=E5=
+=E4=ED=E8=E5 =EA=EE=EC=EC=E5=ED=F2=E0=F0=E8=E8:</b>	</p><div class=3D"comme=
+nts_menu">
+		<a href=3D"http://citforum.ru/news/32842/#comments">=D4=C1=D0 =EF=EE=F2=
+=F0=E5=E1=EE=E2=E0=EB=EE =EE=F2 Apple =E8 Google =EE=F1=F2=E0=E2=EB=FF=F2=
+=FC =AB=E4=FB=F0=FB=BB =E4=EB=FF =E4=EE=F1=F2=F3=EF=E0 =F1=EF=E5=F6=F1=EB=
+=F3=E6=E1 =EA =E4=E0=ED=ED=FB=EC =EF=EE=EB=FC=E7=EE=E2=E0=F2=E5=EB=E5=E9</a=
+>=A0(6)<br>
+		<div class=3D"comments_menu_date">26 =CE=EA=F2=FF=E1=F0=FC, 10:58		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32381/#comments">Microsoft =F1=EE=E7=
+=E4=E0=E5=F2 =E5=E4=E8=ED=F3=FE Windows =E4=EB=FF =E2=F1=E5=F5 =F3=F1=F2=F0=
+=EE=E9=F1=F2=E2</a>=A0(83)<br>
+		<div class=3D"comments_menu_date">26 =CE=EA=F2=FF=E1=F0=FC, 10:56		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32788/#comments">Microsoft =EC=EE=E6=
+=E5=F2 =EE=F2=EA=E0=E7=E0=F2=FC=F1=FF =EE=F2 =E1=E8=E7=ED=E5=F1=E0 =EF=EB=
+=E0=ED=F8=E5=F2=EE=E2 Surface</a>=A0(6)<br>
+		<div class=3D"comments_menu_date">26 =CE=EA=F2=FF=E1=F0=FC, 10:53		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32060/#comments">=CA=E8=F2=E0=E9 =E7=
+=E0=EF=F0=E5=F2=E8=EB =E3=EE=F1=E7=E0=EA=F3=EF=EA=E8 =EA=EE=EC=EF=FC=FE=F2=
+=E5=F0=EE=E2 =F1 =EE=EF=E5=F0=E0=F6=E8=EE=ED=ED=EE=E9 =F1=E8=F1=F2=E5=EC=EE=
+=E9 Windows 8</a>=A0(172)<br>
+		<div class=3D"comments_menu_date">26 =CE=EA=F2=FF=E1=F0=FC, 10:48		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32831/#comments">Google =EF=EE=E4=F2=
+=E2=E5=F0=E4=E8=EB=E0, =F7=F2=EE =EE=E1=ED=EE=E2=EB=E5=ED=E8=E5 =E4=EE Andr=
+oid 5.0 =EF=EE=EB=F3=F7=E0=F2 =E4=E0=E6=E5 Nexus 4 =E8 Nexus 7 2012</a>=A0(=
+8)<br>
+		<div class=3D"comments_menu_date">25 =CE=EA=F2=FF=E1=F0=FC, 19:22		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32861/#comments">Google =F1=EE=E7=E4=
+=E0=E5=F2 =F0=E5=E2=EE=EB=FE=F6=E8=EE=ED=ED=FB=E9 =EF=F0=EE=E4=F3=EA=F2 =ED=
+=E0 =EE=F1=ED=EE=E2=E5 GMail</a>=A0(2)<br>
+		<div class=3D"comments_menu_date">25 =CE=EA=F2=FF=E1=F0=FC, 19:16		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32790/#comments">Google =E2=ED=E5=F1=
+ =E2 =C2=E5=F0=F5=EE=E2=ED=FB=E9 =F1=F3=E4 =D1=D8=C0 =E2=EE=EF=F0=EE=F1, =
+=FF=E2=EB=FF=E5=F2=F1=FF =EB=E8 API =E8=ED=F2=E5=EB=EB=E5=EA=F2=F3=E0=EB=FC=
+=ED=EE=E9 =F1=EE=E1=F1=F2=E2=E5=ED=ED=EE=F1=F2=FC=FE</a>=A0(9)<br>
+		<div class=3D"comments_menu_date">25 =CE=EA=F2=FF=E1=F0=FC, 19:13		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32871/#comments">Microsoft =E8 Dell =
+=EF=F0=E5=E4=F1=F2=E0=E2=E8=EB=E8 =F7=E0=F1=F2=ED=EE=E5 =EE=E1=EB=E0=EA=EE=
+ =ED=E0 =E1=E0=E7=E5 Azure</a>=A0(3)<br>
+		<div class=3D"comments_menu_date">25 =CE=EA=F2=FF=E1=F0=FC, 18:56		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32852/#comments">Microsoft Lumia =E7=
+=E0=EC=E5=ED=E8=F2 =E1=F0=E5=ED=E4 Nokia =ED=E0 =F1=EC=E0=F0=F2=F4=EE=ED=E0=
+=F5</a>=A0(3)<br>
+		<div class=3D"comments_menu_date">25 =CE=EA=F2=FF=E1=F0=FC, 15:21		</div>
+	</div>	<div class=3D"comments_menu">
+		<a href=3D"http://citforum.ru/news/32865/#comments">Google =EF=EE=E4=F2=
+=E2=E5=F0=E4=E8=EB=E0 =E7=E0=EF=F3=F1=EA OTA-=EE=E1=ED=EE=E2=EB=E5=ED=E8=FF=
+ =E4=EE Android 5.0 =F2=F0=E5=F2=FC=E5=E3=EE =ED=EE=FF=E1=F0=FF</a>=A0(2)<b=
+r>
+		<div class=3D"comments_menu_date">25 =CE=EA=F2=FF=E1=F0=FC, 15:15		</div>
+	</div></td></tr>
+
+<tr><td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"1" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"3" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"1" width=3D"1"></td></tr>
+<tr><td><div id=3D"cse" style=3D"width: 100%;"><div class=3D"gsc-control-cs=
+e gsc-control-cse-ru"><div dir=3D"ltr" class=3D"gsc-control-wrapper-cse"><f=
+orm accept-charset=3D"utf-8" class=3D"gsc-search-box"><table class=3D"gsc-s=
+earch-box" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"gsc-=
+input"><input style=3D"outline: medium none; background: url(&quot;http://w=
+ww.google.com/cse/intl/ru/images/google_custom_search_watermark.gif&quot;)=
+ no-repeat scroll left center rgb(255, 255, 255);" spellcheck=3D"false" dir=
+=3D"ltr" id=3D"gsc-i-id1" title=3D"=EF=EE=E8=F1=EA" name=3D"search" class=
+=3D" gsc-input" size=3D"10" autocomplete=3D"off" type=3D"text"><input id=3D=
+"bgresponse" name=3D"bgresponse" type=3D"hidden"></td><td class=3D"gsc-sear=
+ch-button"><input title=3D"=EF=EE=E8=F1=EA" class=3D"gsc-search-button" val=
+ue=3D"=CF=EE=E8=F1=EA" type=3D"button"></td><td class=3D"gsc-clear-button">=
+<div title=3D"=F3=E4=E0=EB=E8=F2=FC =F0=E5=E7=F3=EB=FC=F2=E0=F2=FB" class=
+=3D"gsc-clear-button">=A0</div></td></tr></tbody></table><table class=3D"gs=
+c-branding" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"gsc=
+-branding-user-defined"></td><td class=3D"gsc-branding-text"><div class=3D"=
+gsc-branding-text">=F2=E5=F5=ED=EE=EB=EE=E3=E8=FF</div></td><td class=3D"gs=
+c-branding-img"><img class=3D"gsc-branding-img" src=3D"http://www.google.co=
+m/uds/css/small-logo.png"></td></tr></tbody></table></form><div class=3D"gs=
+c-results-wrapper-nooverlay"><div class=3D"gsc-tabsAreaInvisible"><div clas=
+s=3D"gsc-tabHeader gsc-inline-block gsc-tabhActive">=CF=EE=EB=FC=E7=EE=E2=
+=E0=F2=E5=EB=FC=F1=EA=E8=E9 =EF=EE=E8=F1=EA</div><span class=3D"gs-spacer">=
+ </span></div><div class=3D"gsc-tabsAreaInvisible"></div><div class=3D"gsc-=
+above-wrapper-area-invisible"><table class=3D"gsc-above-wrapper-area-contai=
+ner" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"gsc-result=
+-info-container"><div class=3D"gsc-result-info-invisible"></div></td></tr><=
+/tbody></table></div><div class=3D"gsc-adBlockInvisible"></div><div class=
+=3D"gsc-wrapper"><div class=3D"gsc-adBlockInvisible"></div><div class=3D"gs=
+c-resultsbox-invisible"><div class=3D"gsc-resultsRoot gsc-tabData gsc-tabdA=
+ctive"><table class=3D"gsc-resultsHeader" cellpadding=3D"0" cellspacing=3D"=
+0"><tbody><tr><td class=3D"gsc-twiddleRegionCell"><div class=3D"gsc-twiddle=
+"><div class=3D"gsc-title">=C8=ED=F2=E5=F0=ED=E5=F2</div></div><div class=
+=3D"gsc-stats"></div><div class=3D"gsc-results-selector gsc-all-results-act=
+ive"><div title=3D"=EF=EE=EA=E0=E7=E0=F2=FC =EE=E4=E8=ED =F0=E5=E7=F3=EB=FC=
+=F2=E0=F2" class=3D"gsc-result-selector gsc-one-result">=A0</div><div title=
+=3D"=EF=EE=EA=E0=E7=E0=F2=FC =E4=F0=F3=E3=E8=E5 =F0=E5=E7=F3=EB=FC=F2=E0=F2=
+=FB" class=3D"gsc-result-selector gsc-more-results">=A0</div><div title=3D"=
+=EF=EE=EA=E0=E7=E0=F2=FC =E2=F1=E5 =F0=E5=E7=F3=EB=FC=F2=E0=F2=FB" class=3D=
+"gsc-result-selector gsc-all-results">=A0</div></div></td><td class=3D"gsc-=
+configLabelCell"></td></tr></tbody></table><div><div class=3D"gsc-expansion=
+Area"></div></div></div></div></div></div></div></div></div>
+<script src=3D"urn:snapshot-55BE8868:http://www.google.com/jsapi" type=3D"t=
+ext/javascript"></script>
+<script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><script src=3D"urn:snapshot-A5BB9C0C:http://www.google.com/uds/=
+?file=3Dsearch&amp;v=3D1&amp;hl=3Dru" type=3D"text/javascript"></script><li=
+nk href=3D"urn:snapshot-3B8E6325:http://www.google.com/uds/api/search/1.0/2=
+8ae2b20598e87432c64a154583c2fc6/default+ru.css" type=3D"text/css" rel=3D"st=
+ylesheet"><script src=3D"urn:snapshot-A14612BE:http://www.google.com/uds/ap=
+i/search/1.0/28ae2b20598e87432c64a154583c2fc6/default+ru.I.js" type=3D"text=
+/javascript"></script>
+<link rel=3D"stylesheet" href=3D"urn:snapshot-9BCB576D:http://www.google.co=
+m/cse/style/look/default.css" type=3D"text/css">
+</td></tr>
+
+<tr><td align=3D"center"><!-- Soloway 240x400 code START-->
+<script language=3D"javascript" type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><div style=3D"visibility:hidden;height:0px;"><iframe src=3D"urn=
+:snapshot-E5C6CE0C:http://generated.test/generated-content" id=3D"ar_contai=
+ner_1" marginwidth=3D"0" marginheight=3D"0" scrolling=3D"no" frameborder=3D=
+"0" height=3D"1" width=3D"1"></iframe></div><div id=3D"ad_ph_1"></div>
+<!-- Soloway 240x400 code END -->
+</td></tr>
+<tr><td style=3D"padding-left:5px;">
+
+
+
+
+
+</td></tr>
+
+<tr><td align=3D"center">
+<font size=3D"2"><a class=3D"head" href=3D"http://forum.citforum.ru/">=D4=
+=EE=F0=F3=EC=FB</a>
+<a class=3D"head" href=3D"http://citforum.ru/gazeta/">=C3=E0=E7=E5=F2=E0</a=
+></font>
+</td></tr>
+</tbody></table>
+
+</td>
+<td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.gif" bo=
+rder=3D"0" height=3D"1" width=3D"2"></td>
+<td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif" bo=
+rder=3D"0" height=3D"1" width=3D"1"></td>
+</tr></tbody></table>
+
+</td>
+ <!--no_right-->
+
+</tr>
+</tbody></table>
+</td>
+
+</tr></tbody></table>
+
+<p>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tbody><tr><td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/=
+1x1.gif" alt=3D"" border=3D"0" height=3D"1" width=3D"931"></td></tr>
+<tr><td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"3" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#008080">
+
+<table cellpadding=3D"3" cellspacing=3D"1" border=3D"0" width=3D"100%">
+<tbody><tr>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/consulting/">IT-=EA=EE=ED=F1=E0=EB=F2=E8=ED=E3=
+</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/SE/">Software Engineering</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/programming/">=CF=F0=EE=E3=F0=E0=EC=EC=E8=F0=
+=EE=E2=E0=ED=E8=E5</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/database/">=D1=D3=C1=C4</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/security/">=C1=E5=E7=EE=EF=E0=F1=ED=EE=F1=F2=
+=FC</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/internet/">Internet</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/nets/">=D1=E5=F2=E8</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/operating_systems/">=CE=EF=E5=F0=E0=F6=E8=EE=
+=ED=ED=FB=E5 =F1=E8=F1=F2=E5=EC=FB</a></font></td>
+<td align=3D"center" bgcolor=3D"#F4F9F3"><font size=3D"-1"><a class=3D"head=
+" href=3D"http://citforum.ru/hardware/">Hardware</a></font></td>
+<!--
+<td bgcolor=3D#F4F9F3 align=3Dcenter><font size=3D-1><a class=3Dhead href=
+=3D/faq/>FAQ (=D7=E0=C2=CE)</a></font></td>
+<td bgcolor=3D#F4F9F3 align=3Dcenter><font size=3D-1><a class=3Dhead href=
+=3D/howto/>HOWTO</a></font></td>
+-->=20
+</tr>
+</tbody></table>
+
+</td></tr>
+</tbody></table>
+
+</p><p>
+
+<table width=3D"100%">
+<tbody><tr><td>
+<a href=3D"http://citforum.ru/about/"><font size=3D"2">=C8=ED=F4=EE=F0=EC=
+=E0=F6=E8=FF =E4=EB=FF =F0=E5=EA=EB=E0=EC=EE=E4=E0=F2=E5=EB=E5=E9</font></a=
+>=20
+</td><td><font size=3D"2">PR-=E0=EA=F6=E8=E8, =F0=E0=E7=EC=E5=F9=E5=ED=E8=
+=E5 =F0=E5=EA=EB=E0=EC=FB =97 <a href=3D"mailto:adv@citforum.ru">adv@citfor=
+um.ru</a>,
+<br>=F2=E5=EB.=A0+7=A0495=A06608306, ICQ=A0232284597</font>
+</td><td align=3D"right"><font size=3D"2">=CF=F0=E5=F1=F1-=F0=E5=EB=E8=E7=
+=FB =97 <a href=3D"mailto:pr@citforum.ru">pr@citforum.ru</a></font>
+</td></tr></tbody></table>
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbo=
+dy><tr><td><img src=3D"http://citforum.ru/pictures/1x1.gif" alt=3D"" border=
+=3D"0" height=3D"5" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"1" width=3D"1"></td></tr>
+<tr><td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.gif=
+" alt=3D"" border=3D"0" height=3D"3" width=3D"1"></td></tr></tbody></table>
+
+<table cellpadding=3D"4" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbo=
+dy><tr>
+<td><font size=3D"2">
+<a href=3D"http://www.citforum.ru/feedback.php?page=3D/nets/ito/28.shtml&am=
+p;server=3Dcitforum.ru">=CF=EE=F1=EB=E0=F2=FC =EA=EE=EC=EC=E5=ED=F2=E0=F0=
+=E8=E9</a><br>
+<a href=3D"http://citforum.ru/how.shtml">=C8=ED=F4=EE=F0=EC=E0=F6=E8=FF =E4=
+=EB=FF =E0=E2=F2=EE=F0=EE=E2</a>
+
+</font></td>
+
+<td><a href=3D"http://top100.rambler.ru/cgi-bin/stats_top100.cgi?13078"><im=
+g src=3D"http://citforum.ru/pictures/logos/banner-88x31-rambler-darkblue2.g=
+if" alt=3D"Rambler's Top100" border=3D"0" height=3D"31" width=3D"88"></a></=
+td>
+<td><!--TopList LOGO--><a target=3D"_top" href=3D"http://top.list.ru/jump?f=
+rom=3D26978"><img src=3D"http://top.list.ru/counter?id=3D26978;t=3D54;l=3D1=
+" alt=3D"TopList" border=3D"0" height=3D"31" width=3D"88"></a><!--TopList=
+ LOGO--></td>
+<td>
+<!--LiveInternet logo--><a href=3D"http://www.liveinternet.ru/click" target=
+=3D"_blank"><img src=3D"http://counter.yadro.ru/logo?12.6" alt=3D"liveinter=
+net.ru: =EF=EE=EA=E0=E7=E0=ED=EE =F7=E8=F1=EB=EE =EF=F0=EE=F1=EC=EE=F2=F0=
+=EE=E2 =E7=E0 24 =F7=E0=F1=E0, =EF=EE=F1=E5=F2=E8=F2=E5=EB=E5=E9 =E7=E0 24=
+ =F7=E0=F1=E0 =E8 =E7=E0 =F1=E5=E3=EE=E4=ED=FF" border=3D"0" height=3D"31"=
+ width=3D"88"></a><!--/LiveInternet-->
+</td>
+
+<td align=3D"right" valign=3D"bottom"><font face=3D"Arial, sans-serif" size=
+=3D"1">This Web server launched on February 24, 1997<br>
+Copyright =A9 1997-2000 CIT, =A9 2001-2009 <a href=3D"http://citforum.ru/in=
+fo.shtml">CIT Forum</a></font></td>
+</tr></tbody></table>
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbo=
+dy><tr><td bgcolor=3D"#daecd7"><img src=3D"http://citforum.ru/pictures/1x1.=
+gif" alt=3D"" border=3D"0" height=3D"3" width=3D"1"></td></tr><tr><td bgcol=
+or=3D"#008080"><img src=3D"http://citforum.ru/pictures/1x1.gif" alt=3D"" bo=
+rder=3D"0" height=3D"1" width=3D"1"></td></tr></tbody></table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbo=
+dy><tr><td align=3D"center"><font face=3D"Arial, sans-serif" size=3D"1"><b>=
+=C2=ED=E8=EC=E0=ED=E8=E5!</b> =CB=FE=E1=EE=E9 =E8=E7 =EC=E0=F2=E5=F0=E8=E0=
+=EB=EE=E2, =EE=EF=F3=E1=EB=E8=EA=EE=E2=E0=ED=ED=FB=F5 =ED=E0 =FD=F2=EE=EC=
+ =F1=E5=F0=E2=E5=F0=E5, =ED=E5 =EC=EE=E6=E5=F2 =E1=FB=F2=FC  =E2=EE=F1=EF=
+=F0=EE=E8=E7=E2=E5=E4=E5=ED =E2 =EA=E0=EA=EE=E9 =E1=FB =F2=EE =ED=E8 =E1=FB=
+=EB=EE =F4=EE=F0=EC=E5 =E8 =EA=E0=EA=E8=EC=E8 =E1=FB =F2=EE =ED=E8 =E1=FB=
+=EB=EE =F1=F0=E5=E4=F1=F2=E2=E0=EC=E8 =E1=E5=E7 =EF=E8=F1=FC=EC=E5=ED=ED=EE=
+=E3=EE =F0=E0=E7=F0=E5=F8=E5=ED=E8=FF =E2=EB=E0=E4=E5=EB=FC=F6=E5=E2 =E0=E2=
+=F2=EE=F0=F1=EA=E8=F5 =EF=F0=E0=E2. <a href=3D"http://citforum.ru/copyright=
+.shtml">=CF=EE=E4=F0=EE=E1=ED=E5=E5...</a></font></td></tr></tbody></table>
+
+
+</p><hr>
+<style><!--
+
+/* Effective stylesheet produced by snapshot save */
+
+.d { color: grey; font-size: 10px; }
+
+--></style>
+<table class=3D"d" width=3D"100%">
+<tbody><tr><td>
+
+
+
+
+
+</td></tr>
+</tbody></table>
+
+
+
+</td></tr></tbody></table></center>
+
+
+<script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+
+<!-- GoodADVERT (SMART SCREEN) for http://citforum.ru/ -->
+<script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+<!-- GoodADVERT -->
+
+<!-- AdGravity Javascript code START-->
+<script language=3D"javascript" type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><script language=3D"JavaScript" src=3D"urn:snapshot-63CF7F12:ht=
+tp://ad.adriver.ru/cgi-bin/erle.cgi?sid=3D126751&amp;bt=3D16&amp;target=3Db=
+lank&amp;tail256=3D" http%3a=3D"" www.google.com=3D"" url%3fsa%3dt%26rct%3d=
+j%26q%3d%26esrc%3ds%26source%3dweb%26cd%3d9%26cad%3drja%26uact%3d8%26ved%3d=
+0ceoqfjai%26url%3dhttp%253a%252f%252fcitforum.ru%252fnets%252fito%252f28.sh=
+tml%26ei%3dbqrmvlfzi6s7ygpt5ogaaq%26usg%3dafqjcngtt71c-jkly8dzegdcx3hqv3z94=
+q%26sig2%3dsxonukoufgjiskdey_-qia"=3D""></script>
+<!-- AdGravity Javascript code END -->
+
+
+
+
+
+
+
+
+<table class=3D"gstl_50 gssb_c" style=3D"width: 206px; display: none; top:=
+ 1519px; left: 904px; position: absolute;" cellpadding=3D"0" cellspacing=3D=
+"0"><tbody><tr><td class=3D"gssb_f"></td><td style=3D"width: 100%;" class=
+=3D"gssb_e"></td></tr></tbody></table></body></html>
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://top.list.ru/counter?id=26978;js=13;r=http%3A//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D9%26cad%3Drja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252Fcitforum.ru%252Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26usg%3DAFQjCNGTt71C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA;j=false;s=1440*900;d=24
+
+R0lGODlhAQABAIAAAMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://counter.yadro.ru/hit?rhttp%3A//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D9%26cad%3Drja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252Fcitforum.ru%252Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26usg%3DAFQjCNGTt71C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA;s1440*900*24;uhttp%3A//citforum.ru/nets/ito/28.shtml;i%u0416%u0436%u0413%u043B%u0430%u0432%u0430%2028.%20%u041C%u0430%u0440%u0448%u0440%u0443%u0442%u0438%u0437%u0430%u0446%u0438%u044F%20OSI;0.13613680700957265
+
+R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://counter.rambler.ru/top100.cnt?13078
+
+R0lGODdhUQA/APIAAAAAYPj8+MjMyDAwmGBkmMjM+GBkyAAAACwAAAAAUQA/AAAD/gi63P4wyklZ
+uDjrzbv/YBgoYmmeaEZ2wuASaVYAQ5EJBGGXriCuG4IjdhECdheBYlCaAUpAzQOJMlKdT5HhCM1q
+sC2FoSgs+MgDgWCmCxi3uYCSRj76CAYYYaDwrfEwHFEYcwA4CmYOPnwQBUZGADpLIww1jAsYWH2C
+XjILWJQNaRIDbwxGpUsLW5WZC3wdg0mfC5A2tQuFhVZuCpCMBXyWvhu1HrIBoK+YAYzOurhcTs60
+ZqFUSZCxnYSYqJeXqNB9y4hLjARhYYYaOLacHKComtQ040+XvnM1Du+eDNguICvUi0QwGtGO0DIY
+LhkmTWMYnXFlDB6RGBPjZbxI/omjx48fkIEceVEkyZMnTKJcCUIly5fFKsicSbOmzZs4c+rcybOn
+z59AIQhDOBTn0KIA8uzJ5ysYJJ3HcgY5QmXNpyuFcHpgSjNIwFkbKWrt4CyHCwelcgDM+DXTB641
+kWS1lgRLGxnobmQoJQNvhqc3J2L5qiTQhjmGk/1NTCUOBsA25SLyQFdOYzpuMfAl9JfJ451InCAp
+k/kCn9CR+j5mvPgv6G5cLgSbmLHG6NScCV25kRFyTcHEyKr+nPju4TQdNOGUvGnqcIeYi3huJyQd
+p5061tAzw52RjALgIekAv4679gZq1lgNKlMF+/cz3cOfL8E8/fv48+vfz/8968z/IbgEIEwCDshS
+gQaihOBLRIXF0YIHfnKSS47kcMYf1tWlnmXgZbKhQLXQVWE6Z3BnQwF5bENZPnr0U5AdFkB2SwM2
+cDWjKCrGw1QeEKjVBxapTKEIXIbAleMGQJ5Xy1O2FHKWL77ZsYsjn4CzRlQdiIfBKyCqggiQDKyH
+UC5yfFLdDpe0tSU3sEFJD42vgJOmciFmpQYbobATEpsYsLIKnX1kFWaYQDJ1yANPxoblisasI6Ec
+TNWYiyYvsgMZDJc46J4IlWmIJHm6baheaB8mA15VnR6ZYIIQrvpRq64+yGesEdJqYH/9JQAAOw==
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://citforum.ru/pictures/logos/citlogo8.gif
+
+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
+KHbEIQAAOw==
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://citforum.ru/pictures/1x1.gif
+
+R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://citforum.ru/pictures/it/ito/28-1.gif
+
+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
+MNhYYtWE9ZdGRBh7x4EhHph+gAMU1fd9YYh9H5h3XDh9jgSGvJd9CGeDFHV8bSiFi/dyuScVUcgH
+cUiA9raCOTaHZ5h8u1Z3tdZ7dfuYgM9XY9BWhIBoe3RIIr8HhzDGh2aliCmCfnKXPsN2f7hFaXio
+hp+0bTbFV9zGf8ZWUskWavvnZM2WaQaogKh4U6t2iL1UdLQlJB71aaUIizl4Vg6jiyDnQj1FhlF3
+KMgmjMPYh8z3i8AYa9dxU7XohwMYQ66YbdHXgbLoF9RGjKyIbdnGjcv4H9/mPuFIiA9od3nEd3lG
+fBgXOd0YiitWiQwoj8XIIP3GjrFYdsKlfN5YeZZneO0IeF7Harb4h8a4jkaYj5bYi333c/xoh8rl
+aixEWEe3Q6T4HOIoXofDNCG4TA+5QiZYQ4dFZ/hmkcn4jBdJcW9YiOJHcvwUKXNJp1drZXXIdpEL
+uYWLkYHnJFrFYWFA6JNaCIG7qEJIB0UppynPsZKCh46GqI51JXM+R0Qy6Ru8WJJXSYVKwhVkoXRM
+GE1CmY5EiUSLxXPNoVZKGVks2ZQu2YC7InV/RXWMdVUapIwKaYZXmXhjOXWbIpcalxV1KSs16E7L
+eIcF0XFKE3TNgl7YiIMmSZCf1ZFYSI2qF4//EoQ6OZnZgI9DmIjBJXnkcoFGBDO7NIljyEzo0ZPb
+oXZ4eYqeqXnO8pPrlGsb6HISqTqriZPj6Ilv54il+UC4yZllKJbvWJDTOJQICZF22Yk285i92ZJg
+GSHAqZwCuY+f2X3plZlkeug9mRhe8wh5cmaPiAaJ5MWd3eWdmAee/ihl2rk95ald53mLYaaebjae
+3RmejFaf5nmfhsae1/MrjYif/dk8YlBk2Xmd68mAyAGfvSUoCzogyAGdPCahuumgE2qh4lWhF6qh
+ALWhHXpcGeqhISqAIkqi/QSiJaqhToiiK5qHAMqiLyqGJwqjO6aiM2qjUiijNzpjNaqjPUoqEeqj
+QQp6QCqkRTpZLmqkSSovROqj16SkopejdLOVXxlWxIGkT+qkT1qAvtQpTWhYPKqkkKGltoaCliVY
+SDimW9phacqmmdWmbzoHBQAAIf7vVGhpcyBHSUYgZmlsZSB3YXMgYXNzZW1ibGVkIHdpdGggR0lG
+IENvbnN0cnVjdGlvbiBTZXQgZnJvbToNCg0KQWxjaGVteSBNaW5kd29ya3MgSW5jLg0KUC5PLiBC
+b3ggNTAwDQpCZWV0b24sIE9udGFyaW8NCkwwRyAxQTANCkNBTkFEQS4NCg0KVGhpcyBjb21tZW50
+IGJsb2NrIHdpbGwgbm90IGFwcGVhciBpbiBmaWxlcyBjcmVhdGVkIHdpdGggYSByZWdpc3RlcmVk
+IHZlcnNpb24gb2YgR0lGIENvbnN0cnVjdGlvbiBTZXQAOw==
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://citforum.ru/pictures/it/ito/28-2.gif
+
+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
+yrm6pv/XlBkzHY3LzKNchTrXW9f2OfwTXEZBPKSG1lX7xLYC6Kat17smLQxeHFu/FXeT/MdSym3k
+Ny4yfVeGFlQ76MiBvG0/CjFyScuCBKRKKqQQ5Jpgg7uQWtHgGIDD66ST2aSqKaUw2s+HmcodvRgg
+THuW69Dq56sOvMNibVjbFZWWG9Ak6FbYqdVCS5GeKXict1z++7/yPKUI3c55DcualZ2hfNACXcVt
+/coBLHVkfMAurL+RaDNxfaF7xFamemKuHNZL/dfHrNdRrHrmE5VcFcI9KB+5+nooxqvTLLxQzYiY
+3dd06sSdB1q+FlWq0dNnyqyYisO0RDCTfdiVPcU+HNhdptlp2kusNWjsXK51/cRFuz3G6Qu/ur3X
+gG3YlH3czU3YPJx9WZzaAw3dym3Xd+3cxY3FzD3dyX3Z0g3O423cY+3bf1C+683e7e3e7w3f8e29
+B1AAACH+71RoaXMgR0lGIGZpbGUgd2FzIGFzc2VtYmxlZCB3aXRoIEdJRiBDb25zdHJ1Y3Rpb24g
+U2V0IGZyb206DQoNCkFsY2hlbXkgTWluZHdvcmtzIEluYy4NClAuTy4gQm94IDUwMA0KQmVldG9u
+LCBPbnRhcmlvDQpMMEcgMUEwDQpDQU5BREEuDQoNClRoaXMgY29tbWVudCBibG9jayB3aWxsIG5v
+dCBhcHBlYXIgaW4gZmlsZXMgY3JlYXRlZCB3aXRoIGEgcmVnaXN0ZXJlZCB2ZXJzaW9uIG9mIEdJ
+RiBDb25zdHJ1Y3Rpb24gU2V0ADs=
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://citforum.ru/pictures/it/ito/28-4.gif
+
+R0lGODlh1wFYAIAAAP///wAAACH5BAEAAAAALAAAAADXAVgAQAL7jA0Qybn8YJu0xoqz3rz7D4bi
+SJbmiabqyraueFHxS9f2jef6zvfeA2xEFkTJ5TDzSZSTpNK5g/akUabQuqFit9yu9wsOi8dWLc58
+7qJva1u79maT408u3XVv5Vn7VV/1xzdH1iQDIUUX43QU8haIchfkUAI1pIWo8XiimZKkqLAEqjA0
+CUQqakgYWqaGcRokCSo5a9Fq52o0KUpatKub+ouK4DA8enhqTFyM2mhKdBSpuposi9RLC2vNvG1o
+fS2sG1t7mzmqLbtEWw4C++ttxkkJFu8nHcxEP5IPY7u13zivUKlDuT4Rm4Zs2iB//bD8Y9eQ1ZeH
+JrwdNJL7EF0ujRrF2fsIMqTIkVUyUNRxkqRKPCtb8nPoMqbMmTRr2rxXhxxDnTB5+pz4MWWWiPiI
+5tzpRehLaUpNGvXR1OnPo0aLWX1WCuswU8aWCWQKbONAaFfE4gz27B3HtAe4nYVKQlw0XEIQ9Nqo
+VirSp1PFYOrACOK6l/AGm7vbdldij28VAm789ceLv4fdba3saxzabZZSfSvLLA4vzo45RI3bF4bX
+D6c1V1zNGnXp2KmpElTG1hy1xVsteQpau+ReicOLAh3TeinxnsVtG2++fN4Mrlm9dlZ2DInum9y7
+e/++Scb0jHfTJfucHLz69ezbu38PP35MZ03a8ur8fSypP9hT+OdIHNwZ/v03IHOAhFOWXeAY5BZc
+AaIEnYMRChdGevJdiGGGGk70TocefghiiCKOSGKJJp6IYooqrshiiy6+CGOMLQI3IYXRPWfgjTke
+B1aNED6YBpBy8FghjTs6h6SERyop5BRG6sgkjlA62WSQkTUI2oH2WAiZjVJ+mSSV+nXDUXUX+UJd
+ZmERMh1B6mDTjppvWZRZNgjKmeWUQ4Umm2YKVjOWeZQtCSZfAV2pGH7abbcog5E5A2lumC1CF5b1
+6INbHpWIZ99liWJV6VcnQQPgkF3qSWShYpJ5WKn28cmYpV6GWYRFpFLTUajnkCoXmmgltEet+1km
+8iSjd75Z552zHYugp+qEiio2WTErqyOkdXVqtlYaSuihGPXm7EHoLYaoQI2Gwxue5UZp7qufitul
+I7E0WqphqK66p7bybFklDVzq6wa3P45Zy3Xo8Iodwq6x2e9kAv/38LYNQ8yvjxRbLLGqPPybZ6oL
+dTsruyLjq/HIGJ8MR8SmgjwwyxvPgUZgy0rF8YY23/xdm7N4al6ylz2Lc9BCD/1YfdpYVYitAy0d
+K9FOP42zzuQumg657/7ZNNRab821alTU3HXYYo9NdtlmfwytXwW27HLA+3H8L9j5CSInfeYuLSvb
+JYfMN8lh9t02bb0GWh1vcKu88t8v+09Mt196KItZaJLWq2HNXMrN+KVCY352555/Dnrooo9Oeumm
+F6u43qlfHLjbBBdZcespZ6657P56C3uPtjtMu5Yoz/467gz/fnvvnSAOPPKAB796xs0nvjfrxvOu
++73SR++8ycsv7njs1mfvt/aqi8997qrErTz1u7M0ve/mD7/+4+1XlD77zO92GucLP+96/I37X7up
+GKQddouT1SjlvUypr0Eyk4xgiIcuytHGAlSz1wMBKL+kHQxrt/HVbuaEOkaopVPgws09EGiZumSn
+g5Q7HKb49ELXpOmAbvKPC+/3pqOBCk1Ua5r+1tQqvB1MhasoDwOv0EDEwCpt+/xLUMccSMF6GRFp
+HdxfE6F3v+51DFQKKiF2sPXEJYJGiW2yoqPydUHBGAwg0BoN4c5YLjjqJY0QvB5y5rcvYFyHhBG0
+GxCvuMBQzNAuPzPcHBuYvB/+cF3lm9JnLgKg8jwyjOGrpLDwchUkgrCIzcIL3uC0GcIkS11Fqx4M
+Y/Mn06Axhhb0pBPHwpVYfY1+pSTUJV9ZjVhucjN08pAH83JK1nSxVdohVgIlhT/6FJOFVNTLVXyT
+lu3MMVq3iSQfJcjIKN4nk1A0UGDoBSl31AVciPzBrgy3tj9q8UySHOU3RJjNMr2zZ1nLmx01WU1w
+jHKaqszVmex5w/qBy094SCujtMp0wqEY9DzUYqL2pjgtd66yn+MSjUADmcX3AbKV/ayjQzu6lD4E
+VEjlzOD58NgnDB4Ppaz8iZ2MdVD8fVKdGiXfQLd30/FV0javMlitzhkpQ8YzozjFok2NutOiXk+H
+hMSaUEnoR0oKb6Mm/R5SG4k9nXoUq0ftn1W9mlWwqhSj6wxr8r56VrMWj6hjvapWlZpWqv4PrW6l
+q1zdZ1f7tZWWW9XrVO/YV7yqlaxJfWthBwsVGSl2sYxtrGMfC9nISnayjy0AACH+71RoaXMgR0lG
+IGZpbGUgd2FzIGFzc2VtYmxlZCB3aXRoIEdJRiBDb25zdHJ1Y3Rpb24gU2V0IGZyb206DQoNCkFs
+Y2hlbXkgTWluZHdvcmtzIEluYy4NClAuTy4gQm94IDUwMA0KQmVldG9uLCBPbnRhcmlvDQpMMEcg
+MUEwDQpDQU5BREEuDQoNClRoaXMgY29tbWVudCBibG9jayB3aWxsIG5vdCBhcHBlYXIgaW4gZmls
+ZXMgY3JlYXRlZCB3aXRoIGEgcmVnaXN0ZXJlZCB2ZXJzaW9uIG9mIEdJRiBDb25zdHJ1Y3Rpb24g
+U2V0ADs=
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://citforum.ru/a/gfi_110x52.png
+
+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
+bujMBHEAAAAASUVORK5CYII=
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://citforum.ru/pictures/xml_rss.gif
+
+R0lGODlhJAAOANUAANVYBPHUwOFdBP/28P9yFeCngvfp4OVeBPRkBe3JsfBjBfr079+ecv+rc/fg
+0NByM+e9of/j0Z9BA//m1eWEQ/+FNP/awc5VBM1nI//t4eezkeirgtRhFPBsFOR3Lt1uJPDBofjX
+wf98JOZ7M/PCofqWU/CugiEOAfmygv/Rsv+PRP+0gn0zAv+aV8JQBD8aAf/IpP////9mAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAkAA4AAAbKwAls
+SCwaj8ijpyVrOp/QqDTKYk6vWKq12YgNCDJVLEJYxWKVJuwcjlmmVWgoliBkYo+LOQZBEM4xLmIB
+AFJxTyILMQ4xDC4IZoofKwNngjGEhltOJWcBLgcyZhB0AySWg4VaUWIxBhxNZgUgZxiomKpQh04E
+AwOMGrExBSN0LreZq08pjQ9nFKLDAgguALcGGysrKk+7Ml2fByiuHbICTreAMSYKTt4yB9VNAi4u
+MvTnTvUyCvX++TLeZRlIRcKLgwgTKlzIcOGJIAA7
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.google.com/uds/css/small-logo.png
+
+iVBORw0KGgoAAAANSUhEUgAAADMAAAAPCAYAAABJGff8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNl
+SUQ9InhtcC5paWQ6QkJENjhEODIwRTIxMTFFMTlDRkJGRjFCMTg3MTg1NUYiIHhtcE1NOkRvY3Vt
+ZW50SUQ9InhtcC5kaWQ6NjhEMEVDMEMwRTg3MTFFMTlDRkJGRjFCMTg3MTg1NUYiPiA8eG1wTU06
+RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpCQkQ2OEQ4MDBFMjExMUUxOUNG
+QkZGMUIxODcxODU1RiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpCQkQ2OEQ4MTBFMjExMUUx
+OUNGQkZGMUIxODcxODU1RiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1w
+bWV0YT4gPD94cGFja2V0IGVuZD0iciI/PtexgfUAAAJPSURBVHja3FbRbcJADE0qBmCDZoQwQcME
+wASECSi/rUqAqv0NTABMQJiAMEFhgoYNrhNQGz1X7ilUCW346EnW5eKL7Wc/38U9Ho8OD9d1HRnj
+yYtPU0BSJ8lIdtHwcedUMMhXm6Y+iSHpkR+Tt0/i/Gm4GgxAxNAt4aBFEpKkcJZVAGjDM9luntvD
+cU6eXwMsJQaOrz58ejita8qgRxMbHZPRqbKTkO5A820VQEqOLomHRN+R7MGe0TcwqIixgDjI2Cgn
+myEMM8BE0wPU8ZG5haXz8J2jsmvbDkDzjL5dKNVS3nNYALIXpQbDAUwLUEIqOAP1OAkRvW8iMNat
+oeuLjnuO5jkCEH/chx3L/hyPbCOmdfcM/VI7ETVrw0eBUnPwqVSQnHEw78jUQVeSdDvo5vTM4EPS
+uapPPKYuPeuKnPagukYHTL2RAoSj5q9xY61beZVgJxAfGTWKghky7IHHWsfPCSjnwZ5UZquqJCNQ
+1eFvOmSjU7ShNBgOyEd2NKXaaLwNnBlxeob3vqU7QC+ZjJEUTtzA2isHzJqrW/bA0WDE8ArOTlkH
+nZYK8EyDRqZ97GGp07t7q9p8CDCYBsC94e5aWPEkAD6XGNi+qmapeyZU90yCJjSoDOu4kVPaF2Mt
+FFqqHhqh8VPQiIMeWMBX0PVgYwU/W3y3Ai3lNByUvjSVw7Y6Pg0CSn95MQrIMSocga6NIn8XF4Gp
+6JfFw6nGDZ2o9/xulne3XQLm5so3eEv4D4BC5z8ZV6mM+iuI0DM7nFzjoj+wpWj2H8anAAMAVfY6
+DVNT65AAAAAASUVORK5CYII=
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://citforum.ru/pictures/logos/banner-88x31-rambler-darkblue2.gif
+
+R0lGODlhWAAfALMAAAEBZgsLaxoadSoqfjU1hUZGj2VlonV1q4SEtZubw6OjyKurzcLC2tvb6e/v
+9f39/iH5BAAAAAAALAAAAABYAB8AAAT/MMhJq7046833+2AojmRpnmhaSk/ivnAsz3Rt24hRDEIg
+DAUDgvZgKY7IpHLJbDqfTUShhxEUEMti4LHoer/gsHhMLosNg87AANZyzfC4vGzoUNheN8MAUDAY
+AWgDfwODhAAIfwwLBQEAAnwAkoiIfwBClQgAg4UMCZeKf3V2d4p6DFYMBwELBAR/rn8LAAEFsoUL
+iwsJBQAvvpYGnwkMAwCvrgu1oaqkFgd/p5oLkAyx1q97AgcAf9PMfH+fBy6XwwgCsQSFtqEKaQEI
+IgEHDw51BSAJEgN+bg0A0wVg0KCRAQPpAAZiAOBAAz4AIz4EAPDTJHO+BCBw1YCAowQS/x9OAKLg
+QYECBEwaeEAg38kHoww0+FfxEsA9rgIQaKBpgEcBPAEsCMkNoII+ABseXddxp6s6Q2/CmyBPQtUt
+B1wKeICAHwOaqrqFbNpxwIEDfIb6SLALYNEGs6I2nCWULMdCEbtWuHqVa74GDhpM7evAQS8EhRMX
+juUrcSAHDHptKsytcNzCcwEUWEzAgSvItQqPosDXTdYHWSusZKG4tevXsGPLhu1xr5aUBuq1NGkh
+JevZwIMLd02FtJYACezh411hKwtn0KNT+CAdg5vq2O04eFA8u/Mt2cNrmFn7DujNLSSg30fBN3gK
+0BaMtkNsPqwNyCosgKk6MCAH6KAWAP+AW60ywWrvSZAcCAba8ZVeLDCXgUu2sTdBOn9QuIiGykyQ
+3HMTbJfIA4AEksMEVyB0AAJpfKXAiVvwNgACUgQwYw5SmKQRjUA8IJgFGfIWZCN/jDQTiBEGwVUA
+M33QACQgbGfPICR+oECMSuqTDwhWCLDfB43s1+AEQw7EiJAd0kNdgjF+hdpKAH5gwFcEkTjTiAos
+mJJJMymw30NWNiLBTA/1sJI1FRTpgAIprbJooxK8suZxMbJFojwNDMTVg5xytV8CW5kE5kwOKWDF
+mhNI6kAPXqZHQZEGbMderK4ix8V1E3xAI4lbVjnirw+uFGWoBSzIQGDCJtqkoAXcKR1jpvkgGeOu
+gNDaKbBLIkaiR2Aitx0jW1YAAioTHFAYhHYg5sAquIrnLgbmtlCeBgQkty6IlL6rb7kzqTKVBWZ9
+1UCD7e5rcC1fNpCAAQSwSoAwTTIyXYQqVGzxxRibcPDG+0YAADs=
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://top.list.ru/counter?id=26978;t=54;l=1
+
+R0lGODdhWAAfAMQAAMLqxJLalHaudP39/P7+/N3d3F9fYKqrqUlKSs3PzM56BNquBO6+BGxtbOvr
+7FuAWgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAA
+WAAfAAAF/iAgjmRpnmiqrmwqAEEsz3Rt33iu7/cDCMCgcEgsGo/IpNLoUw6W0Kg02hxYgdbnEyvI
+XrfdcDg7hAQhZiBamBas1W33uf0GVrngfFCP75fTgHKCb4GBboZmhgJ3Y3uOXJCNkmVzbGqCl2eW
+cJd1jFpboXxiX36Ug5ZodZiYiJ1BVVdijaNaY2Rgm4WZqHKKrpp2P7l5oY9dxslEqpzNvHXQhHRx
+jFilkbWks1PcUE3d4OHisD/j5udLPjzr7O3uOurv8vM2aDL2MfgB+gHx9P/yIOTbN1AgQYMG+8GY
+R6CAgQANHwJcl5Afwn0J/b07YMCAgIgCJlIkSHLgQRnq/ghAJPCQgMoZLlWyPNAQwccEHmkoWMAA
+gQIGEgP8DDrypNGEJVOyROCyI8sYBBogYMryo0OrNmfsNDB1aEihQL+y00e2ItKUNj96VPuxgZCq
+BHBazRnDK5CtX/GK5JFybVWIHglkhRr4aly6QhfQ9Vo37N4daEMKlmxzsgy4ckHK2Dn4Z2fFYiki
+NXvvLIy/qAMPhli5QGW5mx2DXdwz9I6LJy/iVghYcs6qH782nSvAwOEDCpCD3pyTgYKOtosKnI5x
+RsbTv7OHLBCTaWDYBhywVKw3BgKeCxQgWPuuIknqJmOo4xqSfgD79ztKzQk9QIOOCDTQwH2r+Qdg
+EO1ZPFfSezTEA0QACCIIIRETfjVEhTQIEZAq95SWD4fyLfTYiCRqROKJAD2wyAMstujiizDGKOOM
+NNZoo4whAAA7
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://counter.yadro.ru/logo?12.6
+
+R0lGODdhWAAfAOYAAP/bkfvWjfrWjfnWjfnVjfjVjffUjffUjvbUjvXTjvTSjvPSjvLRjvHRj/HQ
+j/DQj+/Pj+7Pj+7Oj+3Oj+zOj+zNkOvNkOrNkOrMkOnMkOjLkOfKkObKkebJkeTJkeTIkePIkeLH
+keHGkuDGkt/Gkt/Fkt7Fkt3EktzEktzDk+GrP/nVjP+7M/+qAJZmBPjVjO2eAZhnBPfUjJpoBPbT
+jJxpBPTSjAAAAPPRjPHQjO/OjOyeAe3NjOudAerLjZJjBOnKjeqdAY1gBObIjemcAYhdBOTHjeib
+AYNZBODFjeebAX5WBd/EjeaaAXhSBdvBjeaZAXNPBdi/jeWZAWxKBda+jeOXAWZGBtO8jeKXAV9C
+BtC6jeGWAVk+Bs24jeCWAVM6Bsu2jU42Bsm1jd+VAUkzB8Wzjt6UAUQwB8Kwjt2UAUEuB8Gwjj0r
+B72tjtyTATkpB7usjjgoB+GZCN+WBt2VBNuTAuObCjQmB1RHLkY6ID4xGDEkC2FUOwAAAAAAACwA
+AAAAWAAfAAAH/oAAAoOEhQIIiIgJi4sLjo+QEpKTkheWlxiZHJucnB6fIqGiIiSlpqeoJCelKgIs
+r7CxsrO0tba3uLm0LS6uLb/AwcLDxMXGx8jJwzAzCCzK0NHS08bMCc/U2drbwjA118I3wTfk5OPA
+4i3l5urr3OHr8fLA3gvY7enD+ero+r/5+97JG1iOXg174eCx++cOHzuA78YRHEhvhoR7/4oF7Mcv
+YcaIyeb9YnYRXcN4GhkWdLgRpMKGLYK48IHRpU1pBIEF+UHzps9oKFfGFLKh5s+jL9MJDVJkyD2U
+JldCZImUGFR8wIggMWK048dzXzlWjboQ668mS5J03Qe1Lcyxu1dVAmvi5MlasF45tqwaV+7ZKFLu
+kt2o9O3Rvn5bNKFSpevYiIgTZ7mCxfFjgWUVAsuiZYvly9z2Su7iebA/sYWFglaWBUwYwYm9El4d
+LYuY16Y9qsycl/YxMmXMPD22d7bvZGTQpHn6FrHx47/XLIcOnUwbN5+pHz0DJ0527T65u2lxp7x5
+83TSq09vp7379/Djy59Pv759O3fwxMnDv7//PHoEqMceBO7Bx4EIJqjgggw26OCDEPLRRyAAOw==
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-7E3A5638:http://citforum.ru/css/citforum.css
+
+/* Effective stylesheet produced by snapshot save */
+.document { text-align: justify; }
+dt { text-align: left; }
+a.head { font-family: Times; font-size: 9pt; }
+H3 { text-align: left; font-family: Arial Cyr,Arial,sans-serif; font-size:=
+ 16pt; }
+H4 { text-align: left; font-family: Arial Cyr,Arial,sans-serif; font-size:=
+ 14pt; }
+ul.column { list-style: disc inside none; padding: 0px; margin: 0px; }
+.comments_menu { font-size: 14px; padding-bottom: 8px; }
+.comments_menu a { text-decoration: none; }
+.comments_menu_date { text-align: right; }
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3B8E6325:http://www.google.com/uds/api/search/1.0/28ae2b20598e87432c64a154583c2fc6/default+ru.css
+
+/* Effective stylesheet produced by snapshot save */
+.gsc-control-cse, .gsc-control-cse .gsc-table-result { width: 100%; font-fa=
+mily: Arial,sans-serif; font-size: 13px; }
+.gsc-control-cse div { position: static; }
+form.gsc-search-box { font-size: 13px; margin: 0px 0px 4px; width: 100%; }
+table.gsc-search-box { border-style: none; border-width: 0px; border-spacin=
+g: 0px; width: 100%; margin-bottom: 2px; }
+table.gsc-search-box td { vertical-align: middle; }
+table.gsc-search-box td.gsc-input { padding-right: 12px; }
+td.gsc-search-button { width: 1%; }
+td.gsc-clear-button { width: 14px; }
+table.gsc-branding td, table.gsc-branding, table.gcsc-branding td, table.gc=
+sc-branding { margin: 0px; padding: 0px; border: medium none; }
+table.gsc-branding, table.gcsc-branding { border-style: none; border-width:=
+ 0px; border-spacing: 0px; width: 100%; }
+td.gsc-branding-text, td.gcsc-branding-text { vertical-align: top; }
+td.gsc-branding-text div.gsc-branding-text, td.gcsc-branding-text div.gcsc-=
+branding-text { padding-bottom: 2px; text-align: right; font-size: 11px; ma=
+rgin-right: 2px; }
+td.gsc-branding-img, td.gcsc-branding-img { width: 65px; vertical-align: bo=
+ttom; }
+div.gsc-branding-img, div.gsc-branding-img-noclear, img.gsc-branding-img,=
+ img.gsc-branding-img-noclear, div.gcsc-branding-img, div.gcsc-branding-img=
+-noclear, img.gcsc-branding-img, img.gcsc-branding-img-noclear { padding-to=
+p: 1px; }
+img.gsc-branding-img, img.gsc-branding-img-noclear, img.gcsc-branding-img,=
+ img.gcsc-branding-img-noclear { margin: 0px; padding-right: 0px; padding-l=
+eft: 0px; padding-bottom: 0px; border: medium none; display: inline; }
+input.gsc-search-button { margin-left: 2px; }
+div.gsc-clear-button { display: inline; text-align: right; margin-left: 4px=
+; margin-right: 4px; padding-left: 10px; background-repeat: no-repeat; back=
+ground-position: center center; background-image: url("http://www.google.co=
+m/uds/css/clear.gif"); cursor: pointer; }
+.gsc-results-wrapper-nooverlay {  }
+input.gsc-input { padding: 1px 6px; border: 1px solid rgb(221, 221, 221);=
+ width: 99%; }
+.gsc-resultsHeader { width: 100%; clear: both; }
+.gsc-resultsHeader td.gsc-twiddleRegionCell { width: 75%; }
+.gsc-resultsHeader td.gsc-configLabelCell { text-align: right; width: 75%; }
+.gsc-resultsHeader .gsc-twiddle { margin-top: 4px; display: inline; cursor:=
+ pointer; background-repeat: no-repeat; background-position: 0px 2px; }
+.gsc-resultsHeader .gsc-title { color: rgb(103, 103, 103); margin-right: 10=
+px; padding-left: 14px; display: inline; }
+.gsc-resultsHeader .gsc-stats { color: rgb(103, 103, 103); font-size: 11px;=
+ font-weight: normal; display: inline; }
+.gsc-results-selector { display: inline; }
+.gsc-result-selector { cursor: pointer; display: inline; font-size: 13px;=
+ padding-left: 13px; background-repeat: no-repeat; background-position: lef=
+t center; }
+.gsc-one-result { background-image: url("urn:not-loaded:http://www.google.c=
+om/uds/css/one-complex-dark.gif"); }
+.gsc-more-results { background-image: url("urn:not-loaded:http://www.google=
+.com/uds/css/more-complex-dark.gif"); }
+.gsc-all-results { background-image: url("urn:not-loaded:http://www.google.=
+com/uds/css/all-complex-dark.gif"); padding-right: 1px; }
+.gsc-all-results-active .gsc-all-results { background-image: url("urn:not-l=
+oaded:http://www.google.com/uds/css/all-complex-light-blue.gif"); }
+.gsc-tabsAreaInvisible, .gsc-refinementsAreaInvisible, .gsc-refinementBlock=
+Invisible { display: none; }
+.gsc-tabHeader { padding-left: 6px; padding-right: 6px; margin-right: 2px;=
+ margin-top: 2px; }
+.gsc-tabHeader.gsc-tabhActive { border-left: 1px solid rgb(233, 233, 233);=
+ border-right: 1px solid rgb(233, 233, 233); border-top: 2px solid rgb(255,=
+ 153, 0); color: black; }
+.gsc-tabData.gsc-tabdActive { display: block; }
+.gsc-tabData .gsc-resultsHeader .gsc-title { display: none; }
+.gsc-tabData .gsc-resultsHeader .gsc-stats { display: none; }
+.gsc-tabData .gsc-resultsHeader .gsc-results-selector { display: none; }
+.gsc-resultsbox-invisible { display: none; }
+.gsc-wrapper { position: relative; display: block; }
+.gsc-adBlockInvisible { display: none; }
+.gsc-above-wrapper-area-invisible { display: none; }
+.gsc-above-wrapper-area-container { width: 100%; }
+.gsc-result-info-container { text-align: left; }
+.gsc-result-info-invisible { display: none; }
+.gsc-control-cse:after { content: "."; display: block; clear: both; height:=
+ 0px; visibility: hidden; }
+html > body .gsc-inline-block { display: inline-block; }
+.gsc-inline-block { position: relative; display: inline-block; }
+:first-child + html .gsc-inline-block { display: inline; }
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.google.com/uds/css/clear.gif
+
+R0lGODlhCQAJAIAAAJmZmf///yH5BAEAAAEALAAAAAAJAAkAAAIRjI8Ap6b72Fup1egatoGjUwAA
+Ow==
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-9BCB576D:http://www.google.com/cse/style/look/default.css
+
+/* Effective stylesheet produced by snapshot save */
+.cse .gsc-control-cse, .gsc-control-cse { padding: 1em; width: auto; }
+.cse .gsc-control-wrapper-cse, .gsc-control-wrapper-cse { width: 100%; }
+.cse .gsc-branding, .gsc-branding { display: none; }
+.cse .gsc-control-cse, .gsc-control-cse { background-color: rgb(255, 255,=
+ 255); border: 1px solid rgb(255, 255, 255); }
+.cse .gsc-control-cse:after, .gsc-control-cse:after { content: "."; display=
+: block; height: 0px; clear: both; visibility: hidden; }
+.cse .gsc-resultsHeader, .gsc-resultsHeader {  }
+table.gsc-search-box td.gsc-input { padding-right: 12px; }
+input.gsc-input { border-color: rgb(217, 217, 217); font-size: 13px; paddin=
+g: 1px 6px; }
+.cse input.gsc-search-button, input.gsc-search-button { font-family: inheri=
+t; font-size: 11px; font-weight: bold; color: rgb(0, 0, 0); padding: 0px 8p=
+x; height: 20px; min-width: 54px; background-color: rgb(206, 206, 206); bor=
+der: 1px solid rgb(102, 102, 102); border-radius: 2px; }
+.cse .gsc-tabHeader.gsc-tabhActive, .gsc-tabHeader.gsc-tabhActive { backgro=
+und-color: rgb(255, 255, 255); border-right: 1px solid rgb(233, 233, 233);=
+ border-left: 1px solid rgb(233, 233, 233); -moz-border-top-colors: none;=
+ -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-bord=
+er-left-colors: none; border-image: none; border-width: 2px 1px medium; bor=
+der-style: solid solid none; border-color: rgb(255, 153, 0) rgb(233, 233,=
+ 233) -moz-use-text-color; }
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A0228C89:http://ad.adriver.ru/cgi-bin/erle.cgi?sid=137295&bn=1&target=blank&bt=36&pz=0&rnd=81876363&tail256=http%3A//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D9%26cad%3Drja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252Fcitforum.ru%252Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26usg%3DAFQjCNGTt71C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA
+
+<html><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8"></=
+head><body></body></html>
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-F01591B0:http://ad.adriver.ru/cgi-bin/erle.cgi?sid=137295&bn=1&target=blank&bt=22&pz=0&rnd=83593417&tail256=http%3A//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D9%26cad%3Drja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252Fcitforum.ru%252Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26usg%3DAFQjCNGTt71C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA
+
+<html><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8"></=
+head><body></body></html>
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E5C6CE0C:http://generated.test/generated-content
+
+<html><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8"><s=
+cript language=3D"JavaScript" type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><script language=3D"JavaScript" type=3D"text/javascript" src=3D=
+"urn:snapshot-61D75D01:http://ad.adriver.ru/cgi-bin/erle.cgi?sid=3D126751&a=
+mp;bt=3D49&amp;target=3Dblank&amp;tail256=3Dhttp%3A//www.google.com/url%3Fs=
+a%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D9%26cad%3Drja%26uac=
+t%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252Fcitforum.ru%252Fnets%252=
+Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26usg%3DAFQjCNGTt71C-JkLY8D=
+ZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA&amp;rnd=3D145794762"></scri=
+pt></head></html>
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-61D75D01:http://ad.adriver.ru/cgi-bin/erle.cgi?sid=126751&bt=49&target=blank&tail256=http%3A//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D9%26cad%3Drja%26uact%3D8%26ved%3D0CEoQFjAI%26url%3Dhttp%253A%252F%252Fcitforum.ru%252Fnets%252Fito%252F28.shtml%26ei%3DBqRMVLfzI6S7ygPt5oGAAQ%26usg%3DAFQjCNGTt71C-JkLY8DZegdcX3hqv3Z94Q%26sig2%3DsXoNukOUFgJisKdEy_-qiA&rnd=145794762
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.google.com/cse/intl/ru/images/google_custom_search_watermark.gif
+
+R0lGODlhyAAQAOYAAP///5SUlJOTk8zMzNLS0vn5+fv7+/r6+v7+/t/f3/Pz8+7u7uzs7Pz8/OPj
+487OzrW1tfT09M3NzeXl5aurq9XV1bm5udPT0+Hh4djY2O3t7ff39/Ly8rq6uvDw8OTk5OLi4tra
+2ufn5/Hx8aysrLGxscvLy/39/bS0tL29vcrKytbW1r6+vsnJycLCws/Pz7KystnZ2cTExN7e3sjI
+yN3d3ampqfX19dfX1/j4+Onp6b+/v7i4uObm5ujo6MHBwfb29sfHx+vr68DAwMPDw7a2ttHR0a2t
+reDg4KioqMbGxsXFxaSkpK6uru/v79zc3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/
+C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRj
+emtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRv
+YmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAg
+ICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRm
+LXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0
+dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUu
+Y29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4w
+L3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1
+IE1hY2ludG9zaCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1QTVGQzgyRTQ1QTQxMUUxOTgx
+Q0VDRTNEMDVFNzYyNCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3OTVCRkRCMDQ1QTQxMUUx
+OTgxQ0VDRTNEMDVFNzYyNCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4
+bXAuaWlkOjVBNUZDODJDNDVBNDExRTE5ODFDRUNFM0QwNUU3NjI0IiBzdFJlZjpkb2N1bWVudElE
+PSJ4bXAuZGlkOjVBNUZDODJENDVBNDExRTE5ODFDRUNFM0QwNUU3NjI0Ii8+IDwvcmRmOkRlc2Ny
+aXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Af/+/fz7
++vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M/OzczLysnIx8bFxMPC
+wcC/vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJ
+iIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQ
+T05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgX
+FhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAAAAAAAsAAAAAMgAEABAB/+AAIKDhIWGh4iJiouM
+jY6PkJGSk4wEFBqDExcSEx0SggU2DyEPggchJh0pABowChgQHh0DCxuLAYO4ALq8grwBAoTBAMPF
+ur4Bx78Cw727wLmF0Mi7ggK4x9a+28S7wc3S2ZSJBTtGhAwJDYINOZA1RRzs6yc0AAP4hMnAw+P+
+/42u9QNI0BGCDQo2GCiEwFBDAD4sMEBQ4MeSghgzatzIEcABEBUeSKhRgBKCBEp0dFzJsuXKCyhO
+HMKwI0KBISU8qliQYwABAzMGRHBRogCsAhVUIFiRRB6ifsqgAtM1kJjUXNn2WZ1K7BizaVWtRnMG
+rpo+gYOYaTMrdltYjAn/KFiYcONADCYfnJCQoKFCEAQjVDwAIsQEEAAFaJCYACDBkQkLKJSoMONA
+on6YnZnlhzUX1M9quW1lSzWZMGXdNq8VV8wzt6vbxLl0FMFCigsXCESYzbu379/AgwsfLmiEDAIM
+FiSA0GHhpCcoFhTCJ2HAPeLCcb3FnkhEEwWHTnxY8aAFeMQOkEzwAKCBiAwEXoyoAQE8hhUtZiz4
+cd16tLXcBcidCzA8REgDMlwgiA42gOCACYJoEIIDLsQAAAMkjAALB0QQAAIBGZx3CGqqmVXWaqn1
+UpVX3DhDlTSrYfaMNtP811o32Ly42XYEcUACCzJ5lAEFH7DAgyA38OCAfAMDLGQAATEwYMELLSQA
+gAgQFCADCs4pAtVra5X1jTY3YgNmizCmeGYzn22mXSFiumVmasXwWJAPKcDAggkE4LCbByCCYBkA
+EWSAQw+2iPDACxZQ4IECIfQAwAIS0OBAlwJmqmlGFZTgHAH+bSrqqBsd8EECDGBK6qqaBgIAOw==
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-2D682F89:http://www.google.com/ads/search/module/ads/3.0/d3c0ca43ba4edd33427c3d873a04f1d5a95f7170/n/search.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: application/x-javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3BA1CCBA:http://www.google.com/adsense/search/async-ads.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-7E8743CA:http://files.goodadvert.ru/ga_3.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A20E237A:http://files.goodadvert.ru/ga_1.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-55BE8868:http://www.google.com/jsapi
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A5BB9C0C:http://www.google.com/uds/?file=search&v=1&hl=ru
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A14612BE:http://www.google.com/uds/api/search/1.0/28ae2b20598e87432c64a154583c2fc6/default+ru.I.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B
+Content-Type: application/x-javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-63CF7F12:http://ad.adriver.ru/cgi-bin/erle.cgi?sid=126751&bt=16&target=blank&tail256=
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_CFCE8FCF.BF66824B--
