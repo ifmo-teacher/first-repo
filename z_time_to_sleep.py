@@ -8,7 +8,8 @@ hw = h + xh
 mw = m + xm
 
 if mw >= 60:
-    hw+=1
+    hw += 1
+    mw -= 60
 if hw >= 24:
     hw -= 24
 
