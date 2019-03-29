@@ -1,6 +1,6 @@
 ### Инструкция по установке нормального разрешения в VM VirtualBox 6.0.4 ###
 
-Включаем в виртуальной машине с ОС Linux 
+Включаем в VirtualBox ОС Linux 
 
 Из меню окна виртуальной среды запускаем  
 Devices -> Insert Guest Additions CD image...
@@ -9,7 +9,7 @@ Devices -> Insert Guest Additions CD image...
 другому но должно присутствовать в названии Additions.)
 
 user@ubuntu:~$ cd media/name_user/VBox_GAs_6.0.4
-user@ubuntu:~$ /VBoxLinuxAdditions.run 
+user@ubuntu:~$ ./VBoxLinuxAdditions.run 
 
 
 ### После установки ###
