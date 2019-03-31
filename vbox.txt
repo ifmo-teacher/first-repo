@@ -1,6 +1,6 @@
 ### Инструкция по установке нормального разрешения в VM VirtualBox 6.0.4 ###
 
-Включаем в виртуальной машине ОС Linux 
+Включаем в VirtualBox ОС Linux 
 
 Из меню окна виртуальной среды запускаем  
 Devices -> Insert Guest Additions CD image...
@@ -11,7 +11,6 @@ Devices -> Insert Guest Additions CD image...
 user@ubuntu:~$ cd media/name_user/VBox_GAs_6.0.4
 user@ubuntu:~$ ./VBoxLinuxAdditions.run 
 
-
 ### После установки ввести в командной строке для проверки изменений ###
 
 user@ubuntu:~$ systemctl status vbox*
@@ -19,4 +18,9 @@ user@ubuntu:~$ systemctl status vbox*
 user@ubuntu:~$ ps -ef | grep -i vbox
 
 После установки станет доступным выбор разрешения экрана, который
-до это был неактивен.
+до этого был неактивен.
+
+Также с официального сайта нужно скачать пакет:
+VirtualBox 6.0.4 Oracle VM VirtualBox Extension Pack
+https://www.virtualbox.org/wiki/Downloads
+
